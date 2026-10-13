@@ -1,0 +1,24 @@
+{
+  "numeric_cols": [
+    "age",
+    "is_f",
+    "sbp",
+    "dbp",
+    "map",
+    "pulse",
+    "temp",
+    "spo2",
+    "m_sbp",
+    "m_dbp",
+    "m_pu",
+    "m_te",
+    "m_sp",
+    "n_flags",
+    "comorb",
+    "preg",
+    "hi_fever",
+    "lo_spo2"
+  ],
+  "emergency_weight": 20.0,
+  "train_emergency_recall": 1.0
+}

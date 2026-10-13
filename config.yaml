@@ -1,0 +1,20 @@
+data:
+  n_default: 30000
+  emergency_rate_target: 0.04
+  seed: 42
+model:
+  triage_estimator: HistGradientBoostingClassifier
+  dept_estimator: LogisticRegression
+  tfidf_max_features: 4000
+  tfidf_ngram: [1, 2]
+  emergency_sample_weight: 20.0
+  abstain_threshold: 0.45
+  abstain_max_missing_vitals: 3
+safety:
+  under_triage_emergency_cost: 20.0
+  under_triage_nonemergency_cost: 3.0
+  over_triage_cost_per_level: 1.0
+  abstain_cost_emergency: 4.0
+  abstain_cost_nonemergency: 1.5
+api:
+  p95_latency_ms_target: 100

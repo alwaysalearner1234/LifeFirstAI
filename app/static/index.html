@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LifeFirstAI — 60-Second OPD Triage</title>
+<style>
+body{font-family:system-ui,Arial;margin:0;background:#f4f6fb;color:#111}header{background:#0b3d2e;color:#fff;padding:14px 20px}
+.wrap{max-width:960px;margin:0 auto;padding:18px}.card{background:#fff;border-radius:12px;padding:18px;box-shadow:0 2px 10px #0001;margin-bottom:16px}
+label{font-size:12px;color:#444;display:block;margin-top:10px}.row{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px}
+input,select,textarea{width:100%;padding:10px;border:1px solid #ccd;border-radius:8px;font-size:15px}textarea{min-height:64px}
+button{background:#0b3d2e;color:#fff;border:0;border-radius:10px;padding:14px 22px;font-size:17px;cursor:pointer;width:100%;margin-top:14px}
+button:hover{background:#0e523d}.lvl{font-size:44px;font-weight:800}.L1{background:#b00020;color:#fff}.L2{background:#e65100;color:#fff}
+.L3{background:#f9a825}.L4{background:#2e7d32;color:#fff}.L5{background:#1565c0;color:#fff}
+.pill{display:inline-block;padding:4px 10px;border-radius:20px;background:#eee;margin:3px;font-size:13px}
+.banner{padding:12px;border-radius:8px;margin-top:10px;font-weight:600}.warn{background:#fff3cd;border:1px solid #e0a800}
+.crit{background:#f8d7da;border:1px solid #b00020}.ok{background:#d4edda;border:1px solid #2e7d32}
+small{color:#555}.grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}@media(max-width:700px){.grid2{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header><b>LifeFirstAI</b> · OPD Triage — nurse 60-second intake · <small style="color:#cfe">model + hard escalation rules · &lt;100ms</small></header>
+<div class="wrap">
+<div class="grid2">
+<div class="card">
+<h3>1 · Intake (missing allowed)</h3>
+<div class="row">
+<div><label>Age</label><input id="age" type="number" placeholder="45"></div>
+<div><label>Sex</label><select id="sex"><option>M</option><option>F</option><option>Other</option></select></div>
+<div><label>SBP</label><input id="sbp" type="number" placeholder="120"></div>
+<div><label>DBP</label><input id="dbp" type="number" placeholder="80"></div>
+<div><label>Pulse</label><input id="pulse" type="number" placeholder="88"></div>
+<div><label>Temp (°C or °F)</label><input id="temp_c" type="number" step="0.1" placeholder="98.6"></div>
+<div><label>SpO₂ %</label><input id="spo2" type="number" placeholder="98"></div>
+</div>
+<label>Chief complaint — type as patient speaks (Hinglish OK)</label>
+<textarea id="complaint" placeholder="e.g. seene me dard with pasina since morning"></textarea>
+<label>Known conditions</label><input id="conditions" placeholder="hypertension, diabetes…">
+<label>Medications</label><input id="medications" placeholder="amlodipine…">
+<button onclick="go()">⚡ Triage now</button>
+<small>0 = missing · Temp 96/102 auto-treated as °F · <span id="lat"></span></small>
+</div>
+<div class="card" id="res"><h3>2 · Result</h3><p>Enter intake and press <b>Triage now</b>.</p>
+<h4>Hard escalation rules (always override model)</h4><small id="rules"></small></div>
+</div>
+</div>
+<script>
+fetch('/rules').then(r=>r.json()).then(j=>{document.getElementById('rules').innerHTML=j.escalation_rules.map(x=>`<div>• <b>${x.id}</b> ${x.rule}</div>`).join('')});
+async function go(){
+ const b={age:v('age'),sex:document.getElementById('sex').value,sbp:v('sbp'),dbp:v('dbp'),pulse:v('pulse'),temp_c:v('temp_c'),spo2:v('spo2'),
+ complaint:document.getElementById('complaint').value,conditions:document.getElementById('conditions').value,medications:document.getElementById('medications').value};
+ const r=await fetch('/triage',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(b)});const o=await r.json();
+ document.getElementById('lat').textContent=`last inference ${o.latency_ms} ms`;
+ const cls='L'+o.triage_level;
+ let h=`<h3>2 · Result</h3><div class="card ${cls}" style="margin:0 0 10px"><div class="lvl">LEVEL ${o.triage_level}</div><div style="font-size:18px">${o.department} ${o.abstain?'· ABSTAIN':''}</div></div>`;
+ if(o.abstain)h+=`<div class="banner warn">⚠️ ${o.abstain_message} — ${o.abstain_reason} (queued safe as L${o.triage_level})</div>`;
+ if(o.escalated)h+=`<div class="banner crit">🛡️ ESCALATION OVERRIDE: ${o.escalation.map(e=>e.id+' — '+e.reason).join('; ')}</div>`;
+ if(o.red_flags&&o.red_flags.length)h+=`<div><b>Red flags:</b><br>${o.red_flags.map(f=>`<span class="pill">🚩 ${f.label}</span>`).join('')}</div>`;
+ else h+=`<div><small>No red-flag phrases detected.</small></div>`;
+ h+=`<div style="margin-top:8px"><small>Model said L${o.model_level} (conf ${o.model_confidence}) · dept rule: ${o.dept_reason} · vitals cleaned: ${JSON.stringify(o.vitals_clean)} ${o.quality_flags.length?('· ⚠️ '+o.quality_flags.join('; ')):''}</small></div>`;
+ document.getElementById('res').innerHTML=h+'<h4>Hard escalation rules (always override model)</h4><small id="rules2"></small>';
+}
+function v(id){const x=document.getElementById(id).value;return x===''||x===null?null:Number(x)}
+</script>
+</body></html>

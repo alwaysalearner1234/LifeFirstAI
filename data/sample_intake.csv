@@ -1,0 +1,1001 @@
+age,sex,sbp,dbp,pulse,temp_c,spo2,complaint,conditions,medications,arrival_time,triage_level,department,is_emergency
+28,M,128,68,0,37.7,99,"fever 99 with runny nose, no distress",COPD,none,2026-09-01 08:01:00,5,General Medicine,0
+20,F,121,77,79,38.4,97,"severe ankle sprain after fall, swelling",none,none,2026-09-01 08:00:00,4,Orthopedics,0
+79,F,119,64,91,39.9,95,"tez bukhar with thand lag, sar dard",asthma,salbutamol inhaler,2026-09-01 08:02:00,3,General Medicine,0
+31,M,154,84,98,0.0,95,high fever with rigors 103F since 3 days,COPD,none,2026-09-01 08:05:00,3,General Medicine,0
+82,F,109,73,69,37.5,97,eye redness watering since 2 days,asthma,none,2026-09-01 08:03:00,5,Ophthalmology,0
+87,F,103,84,0,39.3,97,high fever with rigors 103F since 3 days,CKD,salbutamol inhaler,2026-09-01 08:03:00,3,General Medicine,0
+33,M,121,68,92,36.9,99,eye redness watering since 2 days,hypertension,none,2026-09-01 08:04:00,5,Ophthalmology,0
+30,M,72,138,155,38.3,84,"saans nahi aa rahi, dam ghut raha hai",CKD,aspirin,2026-09-01 08:14:00,1,Emergency,1
+28,M,115,0,83,36.8,99,eye redness watering since 2 days,diabetes,none,2026-09-01 08:05:00,5,Ophthalmology,0
+73,F,126,90,115,38.5,97,severe stomach pain vomiting since night,diabetes,amlodipine,2026-09-01 08:06:00,3,Gastroenterology,0
+68,F,112,0,95,39.2,96,high fever with rigors 103F since 3 days,hypertension,amlodipine,2026-09-01 08:11:00,3,General Medicine,0
+0,F,102,70,102,40.5,94,"infant bukhar, doodh nahi pi raha",none,metformin,2026-09-01 08:07:00,3,Pediatrics,0
+7,F,106,66,83,37.2,98,"fever 99 with runny nose, no distress",COPD,aspirin,2026-09-01 08:07:00,5,Pediatrics,0
+53,F,128,73,111,38.6,96,severe stomach pain vomiting since night,none,none,2026-09-01 08:20:00,3,Gastroenterology,0
+16,F,103,75,101,101.1,96,high fever with rigors 103F since 3 days,CKD,amlodipine,2026-09-01 08:13:00,3,General Medicine,0
+19,F,131,98,96,38.5,96,high fever with rigors 103F since 3 days,epilepsy,salbutamol inhaler,2026-09-01 08:09:00,3,General Medicine,0
+1,F,96,67,92,39.4,95,"infant bukhar, doodh nahi pi raha",hypertension,salbutamol inhaler,2026-09-01 08:10:00,3,Pediatrics,0
+52,M,0,70,115,40.2,95,"tez bukhar with thand lag, sar dard",COPD,salbutamol inhaler,2026-09-01 08:10:00,3,General Medicine,0
+28,M,131,79,76,37.6,98,skin rash itching since week,CKD,salbutamol inhaler,2026-09-01 08:12:00,5,Dermatology,0
+33,M,123,73,66,37.3,97,"BP sugar followup, need refill, no complaints",COPD,salbutamol inhaler,2026-09-01 08:11:00,5,General Medicine,0
+85,F,135,67,113,39.3,96,pet dard tez with ulti,epilepsy,metformin,2026-09-01 08:13:00,3,Gastroenterology,0
+55,F,119,79,79,36.8,99,halka bukhar sardi khansi,pregnant,amlodipine,2026-09-01 08:16:00,5,General Medicine,0
+3,M,115,90,109,37.4,96,"ankle sprain after fall, swelling",hypertension,amlodipine,2026-09-01 08:16:00,4,Pediatrics,0
+15,F,109,79,86,37.8,99,eye redness watering since 2 days,none,metformin,2026-09-01 08:16:00,5,Ophthalmology,0
+35,F,140,75,87,36.7,99,"ankle sprain after fall, swelling",asthma,metformin,2026-09-01 08:14:00,4,Orthopedics,0
+53,F,133,83,95,36.5,99,severe eye redness watering since 2 days,epilepsy,none,2026-09-01 08:17:00,5,Ophthalmology,0
+55,F,98,84,100,39.8,97,pet dard tez with ulti,hypertension,amlodipine,2026-09-01 08:17:00,3,Gastroenterology,0
+48,F,111,79,75,37.5,98,severe eye redness watering since 2 days,hypertension,salbutamol inhaler,2026-09-01 08:16:00,5,Ophthalmology,0
+25,M,124,69,72,37.1,97,mild fever cold cough since 2 days,diabetes,metformin,2026-09-01 08:23:00,5,General Medicine,0
+48,F,135,87,71,37.3,97,halka bukhar sardi khansi,hypertension,salbutamol inhaler,2026-09-01 08:18:00,5,General Medicine,0
+53,F,108,87,120,39.6,96,"severe tez bukhar with thand lag, sar dard",none,aspirin,2026-09-01 08:19:00,3,General Medicine,0
+11,F,128,75,99,37.2,99,"ankle sprain after fall, swelling",CKD,none,2026-09-01 08:18:00,4,Pediatrics,0
+62,M,155,91,104,38.2,94,high fever with rigors 103F since 3 days,epilepsy,none,2026-09-01 08:20:00,3,General Medicine,0
+24,F,107,94,81,36.9,97,"ankle sprain after fall, swelling",COPD,salbutamol inhaler,2026-09-01 08:20:00,4,Orthopedics,0
+35,M,106,82,74,0.0,99,"fever 99 with runny nose, no distress",pregnant,metformin,2026-09-01 08:27:00,5,General Medicine,0
+51,F,107,83,85,36.6,99,eye redness watering since 2 days,COPD,none,2026-09-01 08:21:00,5,Ophthalmology,0
+39,M,139,66,83,37.0,97,"ankle sprain after fall, swelling",none,salbutamol inhaler,2026-09-01 08:21:00,4,Orthopedics,0
+87,M,116,72,97,0.0,96,"ankle sprain after fall, swelling",CKD,aspirin,2026-09-01 08:22:00,4,Orthopedics,0
+63,F,107,0,66,37.5,98,khujli with red patches on arms,hypertension,salbutamol inhaler,2026-09-01 08:24:00,5,Dermatology,0
+1,F,118,97,103,40.4,97,"infant bukhar, doodh nahi pi raha",none,salbutamol inhaler,2026-09-01 08:25:00,3,Pediatrics,0
+32,F,0,77,92,0.0,99,severe halka bukhar sardi khansi,none,aspirin,2026-09-01 08:26:00,5,General Medicine,0
+1,M,98,0,109,39.8,95,"infant bukhar, doodh nahi pi raha",diabetes,metformin,2026-09-01 08:25:00,3,Pediatrics,0
+60,M,129,95,79,0.0,99,"ankle sprain after fall, swelling",pregnant,none,2026-09-01 08:25:00,4,Orthopedics,0
+57,F,87,88,0,39.2,85,"saans nahi aa rahi, dam ghut raha hai",epilepsy,metformin,2026-09-01 08:27:00,1,Emergency,1
+56,M,121,79,0,36.7,99,"BP sugar followup, need refill, no complaints",epilepsy,amlodipine,2026-09-01 08:30:00,5,General Medicine,0
+62,M,124,67,72,37.4,99,khujli with red patches on arms,diabetes,aspirin,2026-09-01 08:27:00,5,Dermatology,0
+7,F,116,76,78,36.8,97,mild fever cold cough since 2 days,COPD,aspirin,2026-09-01 08:32:00,5,Pediatrics,0
+85,M,133,79,93,37.4,98,eye redness watering since 2 days,CKD,aspirin,2026-09-01 08:31:00,5,Ophthalmology,0
+48,F,123,74,0,36.5,98,khujli with red patches on arms,none,salbutamol inhaler,2026-09-01 08:31:00,5,Dermatology,0
+79,F,126,88,89,0.0,99,"BP sugar followup, need refill, no complaints",pregnant,metformin,2026-09-01 08:29:00,5,General Medicine,0
+69,F,121,81,94,37.6,98,skin rash itching since week,diabetes,aspirin,2026-09-01 08:36:00,5,Dermatology,0
+71,F,106,85,90,39.3,96,pet dard tez with ulti,diabetes,metformin,2026-09-01 08:31:00,3,Gastroenterology,0
+81,F,134,87,74,37.0,99,"BP sugar followup, need refill, no complaints",asthma,aspirin,2026-09-01 08:32:00,5,General Medicine,0
+83,M,131,80,84,37.7,98,skin rash itching since week,pregnant,none,2026-09-01 08:36:00,5,Dermatology,0
+15,F,107,0,71,37.3,99,halka bukhar sardi khansi,COPD,none,2026-09-01 08:32:00,5,General Medicine,0
+76,M,113,69,0,0.0,99,"BP sugar followup, need refill, no complaints",pregnant,amlodipine,2026-09-01 08:33:00,5,General Medicine,0
+60,F,129,76,0,36.6,99,skin rash itching since week,none,amlodipine,2026-09-01 08:33:00,5,Dermatology,0
+62,F,107,67,75,36.7,99,khujli with red patches on arms,CKD,aspirin,2026-09-01 08:35:00,5,Dermatology,0
+29,F,138,89,102,39.8,97,high fever with rigors 103F since 3 days,diabetes,amlodipine,2026-09-01 08:34:00,3,General Medicine,0
+75,F,126,68,78,0.0,98,"BP sugar followup, need refill, no complaints",diabetes,none,2026-09-01 08:36:00,5,General Medicine,0
+44,F,108,73,83,37.5,97,eye redness watering since 2 days,CKD,amlodipine,2026-09-01 08:36:00,5,Ophthalmology,0
+23,M,78,134,33,38.6,85,"road traffic accident, head injury, bleeding",hypertension,metformin,2026-09-01 08:36:00,1,Emergency,1
+54,F,151,86,98,39.9,95,"tez bukhar with thand lag, sar dard",hypertension,metformin,2026-09-01 08:38:00,3,General Medicine,0
+27,M,129,73,74,36.7,98,mild fever cold cough since 2 days,pregnant,amlodipine,2026-09-01 08:38:00,5,General Medicine,0
+9,F,123,78,0,37.4,98,skin rash itching since week,pregnant,amlodipine,2026-09-01 08:39:00,5,Pediatrics,0
+50,F,0,75,72,37.5,98,khujli with red patches on arms,asthma,metformin,2026-09-01 08:39:00,5,Dermatology,0
+0,M,158,89,114,39.7,97,"3 month baby fever, poor feeding",none,amlodipine,2026-09-01 08:40:00,3,Pediatrics,0
+9,F,129,88,72,37.2,96,"ankle sprain after fall, swelling",hypertension,aspirin,2026-09-01 08:44:00,4,Pediatrics,0
+64,M,102,88,0,40.5,96,pet dard tez with ulti,asthma,salbutamol inhaler,2026-09-01 08:41:00,3,Gastroenterology,0
+6,F,107,75,68,37.4,99,khujli with red patches on arms,asthma,salbutamol inhaler,2026-09-01 08:42:00,5,Pediatrics,0
+10,F,122,77,85,37.6,98,skin rash itching since week,epilepsy,none,2026-09-01 08:42:00,5,Pediatrics,0
+1,M,123,68,94,38.7,94,"3 month baby fever, poor feeding",asthma,none,2026-09-01 08:43:00,3,Pediatrics,0
+1,M,151,99,99,38.6,97,"severe infant bukhar, doodh nahi pi raha",none,aspirin,2026-09-01 08:46:00,3,Pediatrics,0
+77,M,132,73,66,37.1,99,skin rash itching since week,asthma,salbutamol inhaler,2026-09-01 08:44:00,5,Dermatology,0
+28,F,133,76,94,37.0,97,skin rash itching since week,diabetes,salbutamol inhaler,2026-09-01 08:47:00,5,Dermatology,0
+17,F,74,42,0,37.8,88,"road traffic accident, head injury, bleeding",diabetes,aspirin,2026-09-01 08:46:00,1,Emergency,1
+37,F,85,100,115,37.6,93,"pregnant 8 month severe headache swelling, BP high",pregnant,aspirin,2026-09-01 08:49:00,2,OBGYN,1
+2,F,130,67,76,37.5,0,khujli with red patches on arms,asthma,aspirin,2026-09-01 08:54:00,5,Pediatrics,0
+1,M,132,72,91,40.2,95,"severe 3 month baby fever, poor feeding",COPD,salbutamol inhaler,2026-09-01 08:47:00,3,Pediatrics,0
+47,F,133,77,88,37.7,98,"BP sugar followup, stable, need medicines",diabetes,aspirin,2026-09-01 08:47:00,5,General Medicine,0
+0,F,132,79,104,38.4,97,"infant bukhar, doodh nahi pi raha",hypertension,amlodipine,2026-09-01 08:50:00,3,Pediatrics,0
+1,M,111,0,97,38.9,96,"3 month baby fever, poor feeding",diabetes,none,2026-09-01 08:48:00,3,Pediatrics,0
+14,M,128,70,80,37.0,99,"BP sugar followup, stable, need medicines",none,metformin,2026-09-01 08:49:00,5,General Medicine,0
+56,M,130,86,95,37.4,98,eye redness watering since 2 days,asthma,salbutamol inhaler,2026-09-01 08:51:00,5,Ophthalmology,0
+63,M,141,95,108,0.0,96,severe stomach pain vomiting since night,none,none,2026-09-01 08:51:00,3,Gastroenterology,0
+82,M,152,89,111,38.3,96,high fever with rigors 103F since 3 days,hypertension,amlodipine,2026-09-01 08:52:00,3,General Medicine,0
+0,F,131,65,98,39.6,95,"infant bukhar, doodh nahi pi raha",asthma,metformin,2026-09-01 08:53:00,3,Pediatrics,0
+3,M,106,85,89,0.0,99,"BP sugar followup, need refill, no complaints",CKD,aspirin,2026-09-01 08:52:00,5,Pediatrics,0
+88,M,110,79,78,37.1,98,khujli with red patches on arms,epilepsy,metformin,2026-09-01 08:55:00,5,Dermatology,0
+15,F,152,75,94,38.1,94,"tez bukhar with thand lag, sar dard",pregnant,metformin,2026-09-01 08:56:00,3,General Medicine,0
+63,M,107,77,0,37.8,98,eye redness watering since 2 days,none,salbutamol inhaler,2026-09-01 08:55:00,5,Ophthalmology,0
+46,F,116,66,0,37.2,97,skin rash itching since week,diabetes,metformin,2026-09-01 09:01:00,5,Dermatology,0
+25,F,121,66,66,36.7,97,"BP sugar followup, stable, need medicines",pregnant,metformin,2026-09-01 08:56:00,5,General Medicine,0
+65,F,145,79,100,37.2,96,"ankle sprain after fall, swelling",hypertension,none,2026-09-01 08:57:00,4,Orthopedics,0
+21,F,113,75,91,38.5,94,severe stomach pain vomiting since night,none,amlodipine,2026-09-01 08:58:00,3,Gastroenterology,0
+40,M,119,82,75,37.0,99,"BP sugar followup, stable, need medicines",COPD,salbutamol inhaler,2026-09-01 08:58:00,5,General Medicine,0
+88,F,120,90,92,37.1,98,"ankle sprain after fall, swelling",asthma,salbutamol inhaler,2026-09-01 08:57:00,4,Orthopedics,0
+83,F,156,73,96,40.3,96,"tez bukhar with thand lag, sar dard",COPD,metformin,2026-09-01 08:58:00,3,General Medicine,0
+17,M,135,82,94,37.0,97,eye redness watering since 2 days,hypertension,amlodipine,2026-09-01 09:00:00,5,Ophthalmology,0
+22,M,131,77,90,0.0,98,mild fever cold cough since 2 days,pregnant,salbutamol inhaler,2026-09-01 09:00:00,5,General Medicine,0
+59,F,111,68,0,37.5,97,eye redness watering since 2 days,COPD,metformin,2026-09-01 09:01:00,5,Ophthalmology,0
+11,F,126,0,70,37.1,97,khujli with red patches on arms,hypertension,salbutamol inhaler,2026-09-01 09:02:00,5,Pediatrics,0
+39,M,117,86,81,37.5,99,"fever 99 with runny nose, no distress",none,metformin,2026-09-01 09:02:00,5,General Medicine,0
+60,M,129,72,86,0.0,99,"BP sugar followup, stable, need medicines",COPD,none,2026-09-01 09:03:00,5,General Medicine,0
+74,F,107,81,0,37.1,97,eye redness watering since 2 days,epilepsy,salbutamol inhaler,2026-09-01 09:05:00,5,Ophthalmology,0
+89,M,102,64,119,38.1,97,high fever with rigors 103F since 3 days,epilepsy,aspirin,2026-09-01 09:07:00,3,General Medicine,0
+84,M,125,76,68,37.8,97,skin rash itching since week,none,none,2026-09-01 09:04:00,5,Dermatology,0
+19,F,119,67,91,0.0,97,severe stomach pain vomiting since night,hypertension,metformin,2026-09-01 09:06:00,3,Gastroenterology,0
+7,M,159,78,97,39.4,96,severe stomach pain vomiting since night,epilepsy,salbutamol inhaler,2026-09-01 09:05:00,3,Pediatrics,0
+0,F,143,93,100,39.0,97,"infant bukhar, doodh nahi pi raha",asthma,aspirin,2026-09-01 09:10:00,3,Pediatrics,0
+32,M,115,85,67,37.6,98,skin rash itching since week,diabetes,metformin,2026-09-01 09:09:00,5,Dermatology,0
+42,F,96,73,119,40.4,95,pet dard tez with ulti,COPD,none,2026-09-01 09:07:00,3,Gastroenterology,0
+46,F,119,68,90,37.1,99,eye redness watering since 2 days,asthma,amlodipine,2026-09-01 09:07:00,5,Ophthalmology,0
+42,M,117,83,91,37.1,97,khujli with red patches on arms,none,aspirin,2026-09-01 09:08:00,5,Dermatology,0
+1,M,102,93,91,40.4,94,"3 month baby fever, poor feeding",hypertension,metformin,2026-09-01 09:09:00,3,Pediatrics,0
+68,F,105,0,81,36.9,99,severe eye redness watering since 2 days,diabetes,amlodipine,2026-09-01 09:10:00,5,Ophthalmology,0
+50,M,123,85,99,38.5,97,"ankle sprain after fall, swelling",diabetes,aspirin,2026-09-01 09:10:00,4,Orthopedics,0
+21,M,120,78,85,0.0,98,"severe fever 99 with runny nose, no distress",none,salbutamol inhaler,2026-09-01 09:10:00,5,General Medicine,0
+4,M,120,61,0,38.0,97,"ankle sprain after fall, swelling",epilepsy,none,2026-09-01 09:11:00,4,Pediatrics,0
+1,M,107,87,97,38.9,0,"3 month baby fever, poor feeding",none,aspirin,2026-09-01 09:11:00,3,Pediatrics,0
+74,F,107,84,74,37.4,97,khujli with red patches on arms,diabetes,amlodipine,2026-09-01 09:12:00,5,Dermatology,0
+11,M,118,79,82,37.2,99,"BP sugar followup, stable, need medicines",hypertension,salbutamol inhaler,2026-09-01 09:13:00,5,Pediatrics,0
+21,M,129,79,98,38.4,97,severe stomach pain vomiting since night,none,none,2026-09-01 09:15:00,3,Gastroenterology,0
+1,F,143,81,104,39.1,96,"severe infant bukhar, doodh nahi pi raha",none,salbutamol inhaler,2026-09-01 09:14:00,3,Pediatrics,0
+81,F,135,83,90,36.9,97,"BP sugar followup, stable, need medicines",asthma,none,2026-09-01 09:14:00,5,General Medicine,0
+88,M,147,91,94,0.0,96,pet dard tez with ulti,epilepsy,none,2026-09-01 09:16:00,3,Gastroenterology,0
+46,M,108,0,86,37.0,99,skin rash itching since week,epilepsy,amlodipine,2026-09-01 09:15:00,5,Dermatology,0
+59,M,139,61,105,38.7,94,pet dard tez with ulti,COPD,none,2026-09-01 09:17:00,3,Gastroenterology,0
+38,M,130,87,68,37.6,97,eye redness watering since 2 days,asthma,salbutamol inhaler,2026-09-01 09:18:00,5,Ophthalmology,0
+23,F,145,0,113,39.1,95,pet dard tez with ulti,diabetes,none,2026-09-01 09:17:00,3,Gastroenterology,0
+62,F,124,77,84,37.3,98,eye redness watering since 2 days,diabetes,metformin,2026-09-01 09:18:00,5,Ophthalmology,0
+18,F,148,98,94,39.1,97,high fever with rigors 103F since 3 days,CKD,metformin,2026-09-01 09:19:00,3,General Medicine,0
+62,M,111,77,95,37.2,99,halka bukhar sardi khansi,hypertension,metformin,2026-09-01 09:19:00,5,General Medicine,0
+63,M,136,67,87,37.6,98,"ankle sprain after fall, swelling",COPD,salbutamol inhaler,2026-09-01 09:23:00,4,Orthopedics,0
+56,M,149,75,83,38.2,98,"ankle sprain after fall, swelling",pregnant,none,2026-09-01 09:21:00,4,Orthopedics,0
+34,M,109,78,94,37.8,97,"BP sugar followup, stable, need medicines",epilepsy,aspirin,2026-09-01 09:21:00,5,General Medicine,0
+81,M,117,81,88,37.4,98,khujli with red patches on arms,diabetes,aspirin,2026-09-01 09:23:00,5,Dermatology,0
+54,M,158,77,100,38.8,96,"tez bukhar with thand lag, sar dard",diabetes,aspirin,2026-09-01 09:22:00,3,General Medicine,0
+1,M,111,79,95,38.2,0,"infant bukhar, doodh nahi pi raha",COPD,aspirin,2026-09-01 09:24:00,3,Pediatrics,0
+16,M,121,86,79,36.5,97,mild fever cold cough since 2 days,diabetes,amlodipine,2026-09-01 09:23:00,5,General Medicine,0
+17,M,104,93,106,37.7,96,"ankle sprain after fall, swelling",none,metformin,2026-09-01 09:24:00,4,Orthopedics,0
+54,F,112,75,98,38.6,0,"tez bukhar with thand lag, sar dard",CKD,metformin,2026-09-01 09:26:00,3,General Medicine,0
+30,F,0,68,0,37.3,98,khujli with red patches on arms,epilepsy,salbutamol inhaler,2026-09-01 09:26:00,5,Dermatology,0
+8,M,113,71,66,37.7,97,severe eye redness watering since 2 days,asthma,salbutamol inhaler,2026-09-01 09:25:00,5,Pediatrics,0
+50,M,134,87,113,38.1,95,severe stomach pain vomiting since night,asthma,amlodipine,2026-09-01 09:26:00,3,Gastroenterology,0
+44,F,110,76,69,0.0,99,mild fever cold cough since 2 days,diabetes,salbutamol inhaler,2026-09-01 09:29:00,5,General Medicine,0
+46,M,158,96,95,101.1,96,"tez bukhar with thand lag, sar dard",hypertension,metformin,2026-09-01 09:27:00,3,General Medicine,0
+0,F,123,80,97,40.3,97,"3 month baby fever, poor feeding",COPD,none,2026-09-01 09:36:00,3,Pediatrics,0
+39,F,106,95,104,38.9,94,"tez bukhar with thand lag, sar dard",COPD,none,2026-09-01 09:31:00,3,General Medicine,0
+69,F,0,87,93,37.7,97,severe halka bukhar sardi khansi,COPD,aspirin,2026-09-01 09:30:00,5,General Medicine,0
+0,F,142,89,113,39.5,0,"severe infant bukhar, doodh nahi pi raha",asthma,metformin,2026-09-01 09:30:00,3,Pediatrics,0
+34,M,107,71,69,36.6,99,khujli with red patches on arms,none,salbutamol inhaler,2026-09-01 09:31:00,5,Dermatology,0
+38,M,122,80,0,39.8,94,high fever with rigors 103F since 3 days,epilepsy,aspirin,2026-09-01 09:32:00,3,General Medicine,0
+17,M,96,63,116,38.3,95,"tez bukhar with thand lag, sar dard",diabetes,amlodipine,2026-09-01 09:43:00,3,General Medicine,0
+42,M,106,79,66,37.7,97,severe eye redness watering since 2 days,asthma,salbutamol inhaler,2026-09-01 09:33:00,5,Ophthalmology,0
+31,F,120,78,93,37.1,99,"fever 99 with runny nose, no distress",hypertension,aspirin,2026-09-01 09:36:00,5,General Medicine,0
+64,F,117,73,70,0.0,97,eye redness watering since 2 days,COPD,metformin,2026-09-01 09:33:00,5,Ophthalmology,0
+7,M,136,84,92,36.9,0,"ankle sprain after fall, swelling",asthma,none,2026-09-01 09:40:00,4,Pediatrics,0
+4,M,106,72,84,36.5,97,eye redness watering since 2 days,pregnant,amlodipine,2026-09-01 09:34:00,5,Pediatrics,0
+1,M,142,85,108,38.8,94,"3 month baby fever, poor feeding",pregnant,metformin,2026-09-01 09:37:00,3,Pediatrics,0
+22,F,114,88,87,36.7,98,"BP sugar followup, need refill, no complaints",hypertension,metformin,2026-09-01 09:37:00,5,General Medicine,0
+18,F,104,75,101,38.4,96,severe stomach pain vomiting since night,CKD,metformin,2026-09-01 09:37:00,3,Gastroenterology,0
+6,F,128,86,80,37.5,99,"ankle sprain after fall, swelling",COPD,metformin,2026-09-01 09:38:00,4,Pediatrics,0
+33,M,0,75,70,36.7,98,severe halka bukhar sardi khansi,hypertension,aspirin,2026-09-01 09:43:00,5,General Medicine,0
+42,M,111,78,87,37.4,0,severe skin rash itching since week,none,metformin,2026-09-01 09:38:00,5,Dermatology,0
+80,F,136,67,101,37.5,91,"pressure in chest radiating to left arm, nausea",CKD,amlodipine,2026-09-01 09:41:00,2,Cardiology,1
+57,M,113,0,79,36.8,98,"BP sugar followup, stable, need medicines",epilepsy,none,2026-09-01 09:40:00,5,General Medicine,0
+87,F,123,72,80,36.6,98,khujli with red patches on arms,asthma,amlodipine,2026-09-01 09:46:00,5,Dermatology,0
+0,M,149,65,111,38.5,97,"3 month baby fever, poor feeding",diabetes,aspirin,2026-09-01 09:42:00,3,Pediatrics,0
+1,F,107,86,79,37.6,97,"ankle sprain after fall, swelling",pregnant,aspirin,2026-09-01 09:42:00,4,Pediatrics,0
+51,M,124,84,86,0.0,99,eye redness watering since 2 days,pregnant,amlodipine,2026-09-01 09:42:00,5,Ophthalmology,0
+89,M,114,68,89,38.0,99,"ankle sprain after fall, swelling",epilepsy,aspirin,2026-09-01 09:45:00,4,Orthopedics,0
+8,F,127,81,77,37.5,97,"fever 99 with runny nose, no distress",hypertension,aspirin,2026-09-01 09:43:00,5,Pediatrics,0
+59,F,110,61,97,39.2,96,pet dard tez with ulti,CKD,amlodipine,2026-09-01 09:44:00,3,Gastroenterology,0
+0,M,129,86,106,40.2,94,"3 month baby fever, poor feeding",COPD,salbutamol inhaler,2026-09-01 09:46:00,3,Pediatrics,0
+44,F,116,73,99,37.9,98,"ankle sprain after fall, swelling",pregnant,none,2026-09-01 09:47:00,4,Orthopedics,0
+43,F,140,80,87,37.8,98,"ankle sprain after fall, swelling",epilepsy,salbutamol inhaler,2026-09-01 09:47:00,4,Orthopedics,0
+53,F,117,88,66,37.4,99,eye redness watering since 2 days,pregnant,none,2026-09-01 09:46:00,5,Ophthalmology,0
+0,F,118,81,110,38.6,94,"severe infant bukhar, doodh nahi pi raha",none,amlodipine,2026-09-01 09:48:00,3,Pediatrics,0
+64,M,143,93,99,38.1,97,"tez bukhar with thand lag, sar dard",none,metformin,2026-09-01 09:48:00,3,General Medicine,0
+22,F,102,60,104,38.5,96,"tez bukhar with thand lag, sar dard",epilepsy,aspirin,2026-09-01 09:49:00,3,General Medicine,0
+25,F,135,0,0,37.5,98,severe skin rash itching since week,CKD,metformin,2026-09-01 09:48:00,5,Dermatology,0
+38,F,129,93,108,37.4,98,"ankle sprain after fall, swelling",epilepsy,amlodipine,2026-09-01 09:49:00,4,Orthopedics,0
+0,M,141,62,0,39.9,96,"3 month baby fever, poor feeding",diabetes,aspirin,2026-09-01 09:50:00,3,Pediatrics,0
+88,M,119,86,76,37.7,98,"ankle sprain after fall, swelling",diabetes,aspirin,2026-09-01 09:50:00,4,Orthopedics,0
+45,F,118,70,72,0.0,99,"ankle sprain after fall, swelling",none,metformin,2026-09-01 09:56:00,4,Orthopedics,0
+82,M,153,78,98,38.1,97,high fever with rigors 103F since 3 days,diabetes,amlodipine,2026-09-01 09:55:00,3,General Medicine,0
+21,F,116,79,95,36.8,99,mild fever cold cough since 2 days,epilepsy,aspirin,2026-09-01 09:55:00,5,General Medicine,0
+0,M,108,86,119,40.0,0,"3 month baby fever, poor feeding",asthma,aspirin,2026-09-01 09:57:00,3,Pediatrics,0
+33,F,105,87,92,37.2,99,severe khujli with red patches on arms,diabetes,aspirin,2026-09-01 09:55:00,5,Dermatology,0
+71,M,105,85,94,37.2,97,"BP sugar followup, stable, need medicines",CKD,amlodipine,2026-09-01 09:55:00,5,General Medicine,0
+10,F,119,83,79,37.6,97,khujli with red patches on arms,hypertension,amlodipine,2026-09-01 09:57:00,5,Pediatrics,0
+83,F,121,83,73,38.2,97,"ankle sprain after fall, swelling",diabetes,metformin,2026-09-01 09:55:00,4,Orthopedics,0
+13,M,110,91,78,36.7,99,"ankle sprain after fall, swelling",pregnant,amlodipine,2026-09-01 09:58:00,4,Orthopedics,0
+75,M,158,60,106,39.4,94,"tez bukhar with thand lag, sar dard",asthma,metformin,2026-09-01 09:56:00,3,General Medicine,0
+77,M,113,77,95,37.8,98,"BP sugar followup, stable, need medicines",pregnant,none,2026-09-01 09:59:00,5,General Medicine,0
+16,M,132,94,110,37.9,98,"ankle sprain after fall, swelling",CKD,aspirin,2026-09-01 10:00:00,4,Orthopedics,0
+85,M,111,73,0,37.8,97,halka bukhar sardi khansi,pregnant,aspirin,2026-09-01 09:58:00,5,General Medicine,0
+89,F,101,84,102,0.0,97,pet dard tez with ulti,none,metformin,2026-09-01 10:03:00,3,Gastroenterology,0
+24,F,119,70,86,36.7,97,"BP sugar followup, need refill, no complaints",CKD,amlodipine,2026-09-01 10:00:00,5,General Medicine,0
+1,M,133,91,115,38.2,96,"3 month baby fever, poor feeding",epilepsy,amlodipine,2026-09-01 10:00:00,3,Pediatrics,0
+27,F,122,85,65,37.4,97,"BP sugar followup, stable, need medicines",pregnant,aspirin,2026-09-01 10:05:00,5,General Medicine,0
+36,M,134,81,91,37.2,98,khujli with red patches on arms,diabetes,metformin,2026-09-01 10:08:00,5,Dermatology,0
+85,M,132,86,78,36.8,97,"severe fever 99 with runny nose, no distress",asthma,amlodipine,2026-09-01 10:03:00,5,General Medicine,0
+32,M,124,76,103,39.1,0,severe high fever with rigors 103F since 3 days,diabetes,none,2026-09-01 10:02:00,3,General Medicine,0
+87,F,124,0,74,37.0,98,"BP sugar followup, need refill, no complaints",CKD,metformin,2026-09-01 10:03:00,5,General Medicine,0
+71,M,108,66,65,37.3,99,"BP sugar followup, need refill, no complaints",epilepsy,none,2026-09-01 10:03:00,5,General Medicine,0
+72,M,0,95,99,37.1,96,"ankle sprain after fall, swelling",COPD,amlodipine,2026-09-01 10:04:00,4,Orthopedics,0
+42,F,114,96,108,40.0,96,pet dard tez with ulti,CKD,salbutamol inhaler,2026-09-01 10:05:00,3,Gastroenterology,0
+39,F,122,68,70,37.3,99,eye redness watering since 2 days,diabetes,amlodipine,2026-09-01 10:09:00,5,Ophthalmology,0
+75,M,134,66,82,37.2,98,"fever 99 with runny nose, no distress",CKD,metformin,2026-09-01 10:07:00,5,General Medicine,0
+84,M,132,84,86,37.5,97,khujli with red patches on arms,none,salbutamol inhaler,2026-09-01 10:06:00,5,Dermatology,0
+29,M,121,93,0,39.0,96,severe stomach pain vomiting since night,CKD,salbutamol inhaler,2026-09-01 10:08:00,3,Gastroenterology,0
+83,M,121,73,77,37.2,97,khujli with red patches on arms,asthma,aspirin,2026-09-01 10:08:00,5,Dermatology,0
+46,M,142,74,96,37.9,98,"ankle sprain after fall, swelling",hypertension,metformin,2026-09-01 10:10:00,4,Orthopedics,0
+21,F,134,0,81,37.3,98,"fever 99 with runny nose, no distress",none,none,2026-09-01 10:18:00,5,General Medicine,0
+0,M,160,0,95,40.3,0,"3 month baby fever, poor feeding",epilepsy,metformin,2026-09-01 10:11:00,3,Pediatrics,0
+15,M,0,86,69,37.2,99,"fever 99 with runny nose, no distress",epilepsy,metformin,2026-09-01 10:15:00,5,General Medicine,0
+89,M,118,69,73,99.5,98,khujli with red patches on arms,hypertension,none,2026-09-01 10:12:00,5,Dermatology,0
+40,F,116,68,69,37.3,98,skin rash itching since week,COPD,aspirin,2026-09-01 10:13:00,5,Dermatology,0
+1,F,134,96,101,39.8,97,"infant bukhar, doodh nahi pi raha",COPD,none,2026-09-01 10:13:00,3,Pediatrics,0
+81,M,130,67,91,37.1,97,mild fever cold cough since 2 days,epilepsy,none,2026-09-01 10:14:00,5,General Medicine,0
+56,M,0,86,94,36.9,99,mild fever cold cough since 2 days,COPD,amlodipine,2026-09-01 10:20:00,5,General Medicine,0
+50,F,0,72,103,38.0,96,"ankle sprain after fall, swelling",CKD,metformin,2026-09-01 10:15:00,4,Orthopedics,0
+52,M,122,67,81,36.9,98,skin rash itching since week,none,aspirin,2026-09-01 10:16:00,5,Dermatology,0
+75,M,120,68,73,37.0,97,"BP sugar followup, stable, need medicines",hypertension,salbutamol inhaler,2026-09-01 10:15:00,5,General Medicine,0
+22,F,115,76,71,36.8,99,"BP sugar followup, need refill, no complaints",CKD,metformin,2026-09-01 10:16:00,5,General Medicine,0
+15,M,126,86,80,36.5,99,"BP sugar followup, need refill, no complaints",CKD,aspirin,2026-09-01 10:16:00,5,General Medicine,0
+16,M,133,87,100,37.5,96,"ankle sprain after fall, swelling",hypertension,amlodipine,2026-09-01 10:19:00,4,Orthopedics,0
+33,M,128,75,98,40.4,97,"tez bukhar with thand lag, sar dard",epilepsy,salbutamol inhaler,2026-09-01 10:18:00,3,General Medicine,0
+30,F,0,72,94,39.2,95,severe stomach pain vomiting since night,pregnant,aspirin,2026-09-01 10:18:00,3,Gastroenterology,0
+20,M,111,73,80,36.6,99,severe halka bukhar sardi khansi,epilepsy,amlodipine,2026-09-01 10:19:00,5,General Medicine,0
+36,F,136,92,105,40.2,97,severe stomach pain vomiting since night,pregnant,aspirin,2026-09-01 10:21:00,3,Gastroenterology,0
+29,F,135,78,112,39.5,96,high fever with rigors 103F since 3 days,none,aspirin,2026-09-01 10:20:00,3,General Medicine,0
+0,M,116,85,0,38.2,94,"3 month baby fever, poor feeding",CKD,none,2026-09-01 10:20:00,3,Pediatrics,0
+36,F,0,69,69,37.6,99,khujli with red patches on arms,CKD,none,2026-09-01 10:22:00,5,Dermatology,0
+1,F,139,90,107,40.0,0,"infant bukhar, doodh nahi pi raha",asthma,salbutamol inhaler,2026-09-01 10:22:00,3,Pediatrics,0
+55,F,124,72,90,37.2,97,eye redness watering since 2 days,epilepsy,metformin,2026-09-01 10:22:00,5,Ophthalmology,0
+68,F,147,72,117,38.5,94,pet dard tez with ulti,hypertension,metformin,2026-09-01 10:22:00,3,Gastroenterology,0
+0,F,96,74,92,38.0,95,"3 month baby fever, poor feeding",hypertension,salbutamol inhaler,2026-09-01 10:23:00,3,Pediatrics,0
+1,M,155,71,96,40.0,96,"3 month baby fever, poor feeding",hypertension,metformin,2026-09-01 10:25:00,3,Pediatrics,0
+39,F,115,100,113,39.9,94,pet dard tez with ulti,COPD,amlodipine,2026-09-01 10:25:00,3,Gastroenterology,0
+74,M,117,72,65,37.3,97,mild fever cold cough since 2 days,pregnant,amlodipine,2026-09-01 10:25:00,5,General Medicine,0
+40,F,151,72,90,38.9,97,high fever with rigors 103F since 3 days,COPD,none,2026-09-01 10:26:00,3,General Medicine,0
+76,M,107,81,0,36.9,98,eye redness watering since 2 days,hypertension,none,2026-09-01 10:30:00,5,Ophthalmology,0
+84,F,119,93,111,39.9,97,pet dard tez with ulti,hypertension,metformin,2026-09-01 10:27:00,3,Gastroenterology,0
+4,F,157,93,0,38.1,96,"tez bukhar with thand lag, sar dard",diabetes,aspirin,2026-09-01 10:30:00,3,Pediatrics,0
+7,F,0,66,88,37.6,97,khujli with red patches on arms,COPD,none,2026-09-01 10:30:00,5,Pediatrics,0
+1,F,149,66,95,39.4,95,"infant bukhar, doodh nahi pi raha",pregnant,salbutamol inhaler,2026-09-01 10:29:00,3,Pediatrics,0
+27,F,129,82,94,36.8,99,"BP sugar followup, need refill, no complaints",asthma,salbutamol inhaler,2026-09-01 10:29:00,5,General Medicine,0
+88,F,160,95,108,38.2,95,severe pet dard tez with ulti,CKD,amlodipine,2026-09-01 10:31:00,3,Gastroenterology,0
+61,M,157,96,116,0.0,0,severe stomach pain vomiting since night,pregnant,aspirin,2026-09-01 10:31:00,3,Gastroenterology,0
+80,F,101,79,106,38.8,94,severe stomach pain vomiting since night,none,none,2026-09-01 10:32:00,3,Gastroenterology,0
+18,M,115,67,80,37.5,99,khujli with red patches on arms,none,none,2026-09-01 10:32:00,5,Dermatology,0
+34,F,136,96,92,39.7,0,severe stomach pain vomiting since night,pregnant,none,2026-09-01 10:35:00,3,Gastroenterology,0
+0,M,0,69,114,100.9,94,"severe infant bukhar, doodh nahi pi raha",diabetes,salbutamol inhaler,2026-09-01 10:34:00,3,Pediatrics,0
+26,F,0,58,151,38.3,82,sudden vision loss + weakness left side,diabetes,aspirin,2026-09-01 10:35:00,1,Emergency,1
+83,F,112,77,81,36.6,99,"severe BP sugar followup, need refill, no complaints",hypertension,amlodipine,2026-09-01 10:34:00,5,General Medicine,0
+20,M,116,86,76,37.3,98,"BP sugar followup, stable, need medicines",hypertension,none,2026-09-01 10:40:00,5,General Medicine,0
+11,F,121,86,84,37.4,99,"BP sugar followup, stable, need medicines",asthma,metformin,2026-09-01 10:37:00,5,Pediatrics,0
+90,M,150,69,110,38.8,95,severe stomach pain vomiting since night,pregnant,aspirin,2026-09-01 10:42:00,3,Gastroenterology,0
+16,M,101,0,0,37.7,97,"ankle sprain after fall, swelling",none,salbutamol inhaler,2026-09-01 10:37:00,4,Orthopedics,0
+28,M,118,65,94,37.7,98,eye redness watering since 2 days,none,none,2026-09-01 10:38:00,5,Ophthalmology,0
+5,F,128,75,77,37.7,0,eye redness watering since 2 days,none,amlodipine,2026-09-01 10:42:00,5,Pediatrics,0
+66,M,111,74,79,37.6,98,skin rash itching since week,asthma,aspirin,2026-09-01 10:41:00,5,Dermatology,0
+89,M,145,86,100,38.1,97,high fever with rigors 103F since 3 days,asthma,amlodipine,2026-09-01 10:39:00,3,General Medicine,0
+49,M,117,82,77,37.5,97,"BP sugar followup, need refill, no complaints",hypertension,aspirin,2026-09-01 10:40:00,5,General Medicine,0
+15,M,0,71,65,37.5,99,eye redness watering since 2 days,COPD,none,2026-09-01 10:42:00,5,Ophthalmology,0
+0,M,133,82,73,0.0,99,eye redness watering since 2 days,hypertension,none,2026-09-01 10:44:00,5,Pediatrics,0
+22,M,131,99,0,40.4,95,high fever with rigors 103F since 3 days,diabetes,aspirin,2026-09-01 10:45:00,3,General Medicine,0
+35,F,121,78,81,37.4,97,eye redness watering since 2 days,CKD,aspirin,2026-09-01 10:43:00,5,Ophthalmology,0
+63,F,120,70,93,36.8,99,"BP sugar followup, need refill, no complaints",COPD,none,2026-09-01 10:56:00,5,General Medicine,0
+81,M,105,85,71,36.9,0,"BP sugar followup, stable, need medicines",pregnant,aspirin,2026-09-01 10:45:00,5,General Medicine,0
+43,F,134,80,90,37.3,97,mild fever cold cough since 2 days,epilepsy,amlodipine,2026-09-01 10:47:00,5,General Medicine,0
+87,F,0,76,67,36.9,97,"BP sugar followup, need refill, no complaints",diabetes,salbutamol inhaler,2026-09-01 10:46:00,5,General Medicine,0
+63,M,116,79,91,36.8,98,halka bukhar sardi khansi,hypertension,aspirin,2026-09-01 10:49:00,5,General Medicine,0
+67,F,129,75,69,37.6,97,"BP sugar followup, stable, need medicines",diabetes,amlodipine,2026-09-01 10:46:00,5,General Medicine,0
+5,M,134,61,108,39.6,96,"tez bukhar with thand lag, sar dard",CKD,metformin,2026-09-01 10:46:00,3,Pediatrics,0
+70,F,129,69,120,39.4,0,high fever with rigors 103F since 3 days,hypertension,amlodipine,2026-09-01 10:47:00,3,General Medicine,0
+75,F,124,76,74,37.6,98,skin rash itching since week,asthma,amlodipine,2026-09-01 10:50:00,5,Dermatology,0
+87,F,120,72,95,36.7,97,eye redness watering since 2 days,pregnant,aspirin,2026-09-01 10:49:00,5,Ophthalmology,0
+21,F,139,98,108,39.3,0,"tez bukhar with thand lag, sar dard",none,aspirin,2026-09-01 10:50:00,3,General Medicine,0
+49,M,138,73,116,40.0,97,severe stomach pain vomiting since night,none,amlodipine,2026-09-01 10:50:00,3,Gastroenterology,0
+51,M,108,0,114,38.8,97,"tez bukhar with thand lag, sar dard",hypertension,metformin,2026-09-01 10:51:00,3,General Medicine,0
+25,M,143,80,89,38.3,98,"ankle sprain after fall, swelling",epilepsy,metformin,2026-09-01 10:54:00,4,Orthopedics,0
+45,M,132,74,92,36.8,97,mild fever cold cough since 2 days,asthma,aspirin,2026-09-01 10:51:00,5,General Medicine,0
+85,M,109,65,67,36.5,99,"BP sugar followup, stable, need medicines",epilepsy,aspirin,2026-09-01 10:56:00,5,General Medicine,0
+54,F,0,76,72,37.1,97,skin rash itching since week,pregnant,amlodipine,2026-09-01 10:59:00,5,Dermatology,0
+88,M,109,88,88,0.0,99,"BP sugar followup, need refill, no complaints",none,amlodipine,2026-09-01 10:55:00,5,General Medicine,0
+68,M,130,89,102,37.6,99,"ankle sprain after fall, swelling",CKD,none,2026-09-01 10:54:00,4,Orthopedics,0
+1,M,131,91,92,102.7,95,"3 month baby fever, poor feeding",diabetes,none,2026-09-01 10:54:00,3,Pediatrics,0
+0,F,125,91,95,38.9,94,"infant bukhar, doodh nahi pi raha",epilepsy,metformin,2026-09-01 10:56:00,3,Pediatrics,0
+1,M,128,67,91,39.2,95,"3 month baby fever, poor feeding",epilepsy,aspirin,2026-09-01 10:55:00,3,Pediatrics,0
+57,F,0,75,95,37.4,99,skin rash itching since week,CKD,salbutamol inhaler,2026-09-01 10:56:00,5,Dermatology,0
+86,M,146,72,0,0.0,0,"ankle sprain after fall, swelling",diabetes,aspirin,2026-09-01 10:57:00,4,Orthopedics,0
+11,M,138,73,108,37.9,96,"severe ankle sprain after fall, swelling",asthma,amlodipine,2026-09-01 10:59:00,4,Pediatrics,0
+35,F,127,86,0,36.8,98,eye redness watering since 2 days,CKD,metformin,2026-09-01 10:58:00,5,Ophthalmology,0
+62,M,113,94,114,38.5,0,pet dard tez with ulti,CKD,aspirin,2026-09-01 10:58:00,3,Gastroenterology,0
+34,M,127,75,93,37.2,98,mild fever cold cough since 2 days,diabetes,none,2026-09-01 10:59:00,5,General Medicine,0
+45,F,126,74,77,37.3,97,eye redness watering since 2 days,CKD,metformin,2026-09-01 10:59:00,5,Ophthalmology,0
+49,M,125,87,76,36.6,98,skin rash itching since week,none,aspirin,2026-09-01 11:00:00,5,Dermatology,0
+57,M,0,81,73,38.1,98,"ankle sprain after fall, swelling",asthma,none,2026-09-01 11:01:00,4,Orthopedics,0
+1,M,126,68,90,39.6,95,"infant bukhar, doodh nahi pi raha",diabetes,amlodipine,2026-09-01 11:02:00,3,Pediatrics,0
+54,F,146,80,0,38.8,0,severe stomach pain vomiting since night,epilepsy,metformin,2026-09-01 11:04:00,3,Gastroenterology,0
+5,M,0,85,0,37.5,98,eye redness watering since 2 days,CKD,aspirin,2026-09-01 11:04:00,5,Pediatrics,0
+81,F,121,0,78,37.7,97,eye redness watering since 2 days,CKD,salbutamol inhaler,2026-09-01 11:04:00,5,Ophthalmology,0
+12,F,159,74,104,38.7,95,severe stomach pain vomiting since night,hypertension,amlodipine,2026-09-01 11:05:00,3,Gastroenterology,0
+58,M,108,88,66,36.7,99,khujli with red patches on arms,pregnant,aspirin,2026-09-01 11:04:00,5,Dermatology,0
+41,M,108,72,88,37.6,98,"BP sugar followup, need refill, no complaints",none,metformin,2026-09-01 11:05:00,5,General Medicine,0
+25,F,111,62,112,38.7,94,pet dard tez with ulti,asthma,none,2026-09-01 11:10:00,3,Gastroenterology,0
+66,F,122,97,105,38.7,97,severe stomach pain vomiting since night,asthma,none,2026-09-01 11:10:00,3,Gastroenterology,0
+64,M,118,81,77,37.6,98,mild fever cold cough since 2 days,epilepsy,metformin,2026-09-01 11:06:00,5,General Medicine,0
+39,M,153,96,113,40.4,94,high fever with rigors 103F since 3 days,hypertension,amlodipine,2026-09-01 11:08:00,3,General Medicine,0
+34,M,130,0,67,37.6,99,halka bukhar sardi khansi,pregnant,aspirin,2026-09-01 11:09:00,5,General Medicine,0
+0,M,137,75,107,39.6,94,"3 month baby fever, poor feeding",pregnant,salbutamol inhaler,2026-09-01 11:12:00,3,Pediatrics,0
+47,F,119,80,81,37.6,99,severe khujli with red patches on arms,diabetes,metformin,2026-09-01 11:13:00,5,Dermatology,0
+36,M,108,70,98,39.7,94,"tez bukhar with thand lag, sar dard",asthma,aspirin,2026-09-01 11:10:00,3,General Medicine,0
+2,M,131,81,85,37.0,98,halka bukhar sardi khansi,none,aspirin,2026-09-01 11:10:00,5,Pediatrics,0
+61,F,118,63,79,37.1,98,"ankle sprain after fall, swelling",asthma,metformin,2026-09-01 11:11:00,4,Orthopedics,0
+47,M,111,82,87,37.4,97,"BP sugar followup, need refill, no complaints",hypertension,aspirin,2026-09-01 11:16:00,5,General Medicine,0
+69,F,125,87,74,37.7,98,eye redness watering since 2 days,none,salbutamol inhaler,2026-09-01 11:14:00,5,Ophthalmology,0
+14,F,105,0,84,37.1,97,mild fever cold cough since 2 days,CKD,metformin,2026-09-01 11:12:00,5,General Medicine,0
+50,M,0,75,84,37.2,99,eye redness watering since 2 days,hypertension,salbutamol inhaler,2026-09-01 11:14:00,5,Ophthalmology,0
+56,F,130,79,74,37.5,97,eye redness watering since 2 days,COPD,salbutamol inhaler,2026-09-01 11:15:00,5,Ophthalmology,0
+75,F,107,65,78,37.7,99,"BP sugar followup, need refill, no complaints",epilepsy,salbutamol inhaler,2026-09-01 11:16:00,5,General Medicine,0
+71,F,114,61,70,37.0,97,"ankle sprain after fall, swelling",none,metformin,2026-09-01 11:15:00,4,Orthopedics,0
+46,F,123,78,92,37.3,98,eye redness watering since 2 days,asthma,none,2026-09-01 11:15:00,5,Ophthalmology,0
+1,F,148,100,0,38.1,96,"infant bukhar, doodh nahi pi raha",asthma,none,2026-09-01 11:16:00,3,Pediatrics,0
+46,M,134,82,79,36.8,96,"ankle sprain after fall, swelling",COPD,metformin,2026-09-01 11:19:00,4,Orthopedics,0
+9,M,111,61,105,38.8,96,"tez bukhar with thand lag, sar dard",CKD,amlodipine,2026-09-01 11:20:00,3,Pediatrics,0
+1,M,121,0,92,39.7,0,"3 month baby fever, poor feeding",hypertension,aspirin,2026-09-01 11:18:00,3,Pediatrics,0
+12,M,121,97,118,38.5,95,"tez bukhar with thand lag, sar dard",asthma,none,2026-09-01 11:21:00,3,General Medicine,0
+1,M,119,78,95,40.4,94,high fever with rigors 103F since 3 days,none,amlodipine,2026-09-01 11:19:00,3,Pediatrics,0
+29,F,108,75,68,36.6,0,khujli with red patches on arms,diabetes,aspirin,2026-09-01 11:20:00,5,Dermatology,0
+28,F,118,87,82,0.0,96,"ankle sprain after fall, swelling",epilepsy,aspirin,2026-09-01 11:21:00,4,Orthopedics,0
+88,M,116,64,101,38.8,95,high fever with rigors 103F since 3 days,CKD,aspirin,2026-09-01 11:21:00,3,General Medicine,0
+18,F,108,68,73,0.0,0,khujli with red patches on arms,asthma,aspirin,2026-09-01 11:23:00,5,Dermatology,0
+9,F,150,89,82,37.8,98,"severe ankle sprain after fall, swelling",hypertension,aspirin,2026-09-01 11:26:00,4,Pediatrics,0
+56,F,106,66,70,37.4,99,eye redness watering since 2 days,diabetes,none,2026-09-01 11:25:00,5,Ophthalmology,0
+20,M,117,73,80,37.8,0,eye redness watering since 2 days,pregnant,salbutamol inhaler,2026-09-01 11:26:00,5,Ophthalmology,0
+44,F,118,76,66,36.8,99,"severe BP sugar followup, stable, need medicines",asthma,amlodipine,2026-09-01 11:25:00,5,General Medicine,0
+89,F,123,65,75,37.2,98,khujli with red patches on arms,pregnant,metformin,2026-09-01 11:26:00,5,Dermatology,0
+9,M,114,73,66,37.8,98,skin rash itching since week,pregnant,salbutamol inhaler,2026-09-01 11:25:00,5,Pediatrics,0
+9,F,121,74,78,37.2,99,eye redness watering since 2 days,hypertension,none,2026-09-01 11:29:00,5,Pediatrics,0
+81,F,102,93,96,39.2,96,pet dard tez with ulti,diabetes,metformin,2026-09-01 11:30:00,3,Gastroenterology,0
+76,M,125,75,77,36.9,97,"ankle sprain after fall, swelling",hypertension,metformin,2026-09-01 11:27:00,4,Orthopedics,0
+70,M,141,62,101,0.0,96,"ankle sprain after fall, swelling",diabetes,aspirin,2026-09-01 11:33:00,4,Orthopedics,0
+0,F,158,65,97,39.9,94,"3 month baby fever, poor feeding",COPD,metformin,2026-09-01 11:28:00,3,Pediatrics,0
+75,M,131,94,93,37.1,96,"ankle sprain after fall, swelling",pregnant,salbutamol inhaler,2026-09-01 11:28:00,4,Orthopedics,0
+6,M,113,82,77,37.3,98,"fever 99 with runny nose, no distress",hypertension,aspirin,2026-09-01 11:34:00,5,Pediatrics,0
+30,F,113,70,0,38.3,98,"ankle sprain after fall, swelling",none,aspirin,2026-09-01 11:35:00,4,Orthopedics,0
+89,F,121,67,76,0.0,0,skin rash itching since week,none,metformin,2026-09-01 11:30:00,5,Dermatology,0
+20,M,133,68,108,38.1,99,"severe ankle sprain after fall, swelling",CKD,metformin,2026-09-01 11:31:00,4,Orthopedics,0
+73,M,105,65,94,37.3,99,khujli with red patches on arms,epilepsy,none,2026-09-01 11:32:00,5,Dermatology,0
+72,M,96,93,103,40.1,97,"tez bukhar with thand lag, sar dard",none,aspirin,2026-09-01 11:32:00,3,General Medicine,0
+24,F,118,86,115,38.1,95,pet dard tez with ulti,diabetes,amlodipine,2026-09-01 11:34:00,3,Gastroenterology,0
+90,F,0,84,73,36.6,97,skin rash itching since week,hypertension,amlodipine,2026-09-01 11:34:00,5,Dermatology,0
+16,M,78,104,161,37.8,84,"road traffic accident, head injury, bleeding",CKD,salbutamol inhaler,2026-09-01 11:39:00,1,Emergency,1
+33,F,127,70,90,38.0,0,"ankle sprain after fall, swelling",COPD,metformin,2026-09-01 11:34:00,4,Orthopedics,0
+63,M,119,76,87,37.1,99,eye redness watering since 2 days,asthma,metformin,2026-09-01 11:38:00,5,Ophthalmology,0
+73,M,148,0,97,39.7,97,severe stomach pain vomiting since night,diabetes,salbutamol inhaler,2026-09-01 11:36:00,3,Gastroenterology,0
+34,M,115,66,85,37.7,99,eye redness watering since 2 days,hypertension,salbutamol inhaler,2026-09-01 11:37:00,5,Ophthalmology,0
+32,M,125,85,92,40.1,94,"severe tez bukhar with thand lag, sar dard",none,aspirin,2026-09-01 11:39:00,3,General Medicine,0
+1,M,157,88,118,39.2,97,"infant bukhar, doodh nahi pi raha",epilepsy,amlodipine,2026-09-01 11:37:00,3,Pediatrics,0
+19,F,121,0,85,36.6,99,eye redness watering since 2 days,CKD,metformin,2026-09-01 11:39:00,5,Ophthalmology,0
+5,M,121,78,78,37.1,97,"severe fever 99 with runny nose, no distress",none,metformin,2026-09-01 11:42:00,5,Pediatrics,0
+90,F,115,83,88,37.5,98,mild fever cold cough since 2 days,diabetes,none,2026-09-01 11:40:00,5,General Medicine,0
+14,M,110,85,80,37.4,98,severe skin rash itching since week,pregnant,aspirin,2026-09-01 11:43:00,5,Dermatology,0
+0,M,98,73,105,39.6,95,"3 month baby fever, poor feeding",none,aspirin,2026-09-01 11:40:00,3,Pediatrics,0
+1,M,152,97,97,38.7,95,"infant bukhar, doodh nahi pi raha",epilepsy,aspirin,2026-09-01 11:44:00,3,Pediatrics,0
+65,F,114,0,103,37.3,96,"ankle sprain after fall, swelling",pregnant,aspirin,2026-09-01 11:44:00,4,Orthopedics,0
+56,M,88,83,32,39.7,86,"cannot breathe, gasping, lips blue",asthma,none,2026-09-01 11:43:00,1,Emergency,1
+25,M,157,66,115,40.4,97,"tez bukhar with thand lag, sar dard",asthma,metformin,2026-09-01 11:46:00,3,General Medicine,0
+14,M,108,82,0,36.8,98,mild fever cold cough since 2 days,diabetes,amlodipine,2026-09-01 11:49:00,5,General Medicine,0
+78,M,131,82,66,36.6,99,eye redness watering since 2 days,none,amlodipine,2026-09-01 11:44:00,5,Ophthalmology,0
+1,F,95,75,116,38.9,97,"3 month baby fever, poor feeding",asthma,none,2026-09-01 11:46:00,3,Pediatrics,0
+58,F,135,65,0,37.5,97,khujli with red patches on arms,epilepsy,amlodipine,2026-09-01 11:46:00,5,Dermatology,0
+1,F,146,95,117,39.8,96,"3 month baby fever, poor feeding",epilepsy,aspirin,2026-09-01 11:48:00,3,Pediatrics,0
+83,F,129,71,93,36.6,98,eye redness watering since 2 days,COPD,amlodipine,2026-09-01 11:48:00,5,Ophthalmology,0
+69,F,112,0,88,37.8,98,"severe BP sugar followup, need refill, no complaints",diabetes,aspirin,2026-09-01 11:48:00,5,General Medicine,0
+74,M,116,74,74,37.5,99,eye redness watering since 2 days,COPD,salbutamol inhaler,2026-09-01 11:49:00,5,Ophthalmology,0
+7,F,133,69,80,37.1,97,severe khujli with red patches on arms,none,aspirin,2026-09-01 11:59:00,5,Pediatrics,0
+18,M,120,87,79,37.8,0,eye redness watering since 2 days,pregnant,amlodipine,2026-09-01 11:51:00,5,Ophthalmology,0
+5,M,110,83,99,38.8,0,"tez bukhar with thand lag, sar dard",CKD,metformin,2026-09-01 11:50:00,3,Pediatrics,0
+8,M,118,80,83,37.2,98,mild fever cold cough since 2 days,none,aspirin,2026-09-01 11:52:00,5,Pediatrics,0
+85,F,0,72,93,36.9,98,"BP sugar followup, need refill, no complaints",hypertension,none,2026-09-01 11:52:00,5,General Medicine,0
+71,M,112,94,106,0.0,96,"ankle sprain after fall, swelling",hypertension,salbutamol inhaler,2026-09-01 11:54:00,4,Orthopedics,0
+77,F,0,83,66,37.6,98,eye redness watering since 2 days,diabetes,amlodipine,2026-09-01 11:53:00,5,Ophthalmology,0
+0,F,147,70,91,38.5,96,"infant bukhar, doodh nahi pi raha",diabetes,amlodipine,2026-09-01 11:53:00,3,Pediatrics,0
+64,F,109,77,91,39.2,96,pet dard tez with ulti,diabetes,metformin,2026-09-01 11:56:00,3,Gastroenterology,0
+1,M,159,73,115,38.9,95,"infant bukhar, doodh nahi pi raha",hypertension,aspirin,2026-09-01 12:00:00,3,Pediatrics,0
+1,F,127,0,101,39.5,95,"severe 3 month baby fever, poor feeding",diabetes,metformin,2026-09-01 11:57:00,3,Pediatrics,0
+40,F,125,73,89,37.1,99,skin rash itching since week,asthma,amlodipine,2026-09-01 11:57:00,5,Dermatology,0
+89,F,185,123,105,38.6,90,seene me dard with pasina and saans phool raha,pregnant,aspirin,2026-09-01 11:56:00,2,Cardiology,1
+24,F,105,72,88,37.5,97,mild fever cold cough since 2 days,COPD,metformin,2026-09-01 12:04:00,5,General Medicine,0
+90,M,105,71,91,37.0,99,halka bukhar sardi khansi,asthma,amlodipine,2026-09-01 11:58:00,5,General Medicine,0
+0,F,119,0,112,39.7,96,"infant bukhar, doodh nahi pi raha",pregnant,aspirin,2026-09-01 12:01:00,3,Pediatrics,0
+66,M,123,63,98,39.3,97,"tez bukhar with thand lag, sar dard",COPD,aspirin,2026-09-01 12:04:00,3,General Medicine,0
+8,M,98,90,103,39.5,94,severe stomach pain vomiting since night,hypertension,salbutamol inhaler,2026-09-01 12:00:00,3,Pediatrics,0
+80,F,110,65,91,0.0,94,"tez bukhar with thand lag, sar dard",epilepsy,amlodipine,2026-09-01 11:59:00,3,General Medicine,0
+51,M,124,78,72,37.5,99,halka bukhar sardi khansi,hypertension,aspirin,2026-09-01 12:01:00,5,General Medicine,0
+8,M,111,100,106,38.9,0,severe high fever with rigors 103F since 3 days,epilepsy,none,2026-09-01 12:07:00,3,Pediatrics,0
+18,M,130,79,108,37.1,98,"ankle sprain after fall, swelling",hypertension,aspirin,2026-09-01 12:02:00,4,Orthopedics,0
+85,F,154,98,112,40.1,96,severe stomach pain vomiting since night,hypertension,aspirin,2026-09-01 12:02:00,3,Gastroenterology,0
+79,M,0,0,29,38.6,82,sudden vision loss + weakness left side,pregnant,amlodipine,2026-09-01 12:09:00,1,Emergency,1
+22,F,135,75,0,36.5,97,"ankle sprain after fall, swelling",diabetes,salbutamol inhaler,2026-09-01 12:08:00,4,Orthopedics,0
+84,M,150,64,93,40.2,95,pet dard tez with ulti,COPD,amlodipine,2026-09-01 12:06:00,3,Gastroenterology,0
+6,F,108,92,107,0.0,99,"ankle sprain after fall, swelling",pregnant,aspirin,2026-09-01 12:05:00,4,Pediatrics,0
+63,F,113,0,77,37.7,99,"BP sugar followup, stable, need medicines",CKD,aspirin,2026-09-01 12:09:00,5,General Medicine,0
+17,M,0,79,81,36.8,98,"BP sugar followup, stable, need medicines",none,salbutamol inhaler,2026-09-01 12:06:00,5,General Medicine,0
+9,F,0,0,153,37.8,85,"heavy bleeding after cut, blood not stopping",CKD,metformin,2026-09-01 12:08:00,1,Emergency,1
+44,F,125,60,100,38.2,97,"ankle sprain after fall, swelling",none,aspirin,2026-09-01 12:07:00,4,Orthopedics,0
+89,F,121,88,104,0.0,94,pet dard tez with ulti,pregnant,metformin,2026-09-01 12:08:00,3,Gastroenterology,0
+2,M,134,69,69,37.2,98,khujli with red patches on arms,diabetes,none,2026-09-01 12:08:00,5,Pediatrics,0
+38,M,110,68,0,36.7,99,"BP sugar followup, stable, need medicines",COPD,metformin,2026-09-01 12:09:00,5,General Medicine,0
+1,M,115,78,77,37.8,97,eye redness watering since 2 days,COPD,salbutamol inhaler,2026-09-01 12:10:00,5,Pediatrics,0
+39,M,0,87,0,36.9,98,eye redness watering since 2 days,none,aspirin,2026-09-01 12:10:00,5,Ophthalmology,0
+58,F,133,85,109,39.0,95,"tez bukhar with thand lag, sar dard",diabetes,aspirin,2026-09-01 12:12:00,3,General Medicine,0
+1,M,0,91,103,40.5,94,"infant bukhar, doodh nahi pi raha",hypertension,aspirin,2026-09-01 12:10:00,3,Pediatrics,0
+51,M,117,66,65,36.6,0,eye redness watering since 2 days,COPD,aspirin,2026-09-01 12:11:00,5,Ophthalmology,0
+0,M,132,0,107,38.4,97,"3 month baby fever, poor feeding",COPD,aspirin,2026-09-01 12:14:00,3,Pediatrics,0
+56,M,95,63,114,39.9,97,"tez bukhar with thand lag, sar dard",pregnant,metformin,2026-09-01 12:14:00,3,General Medicine,0
+5,F,160,66,116,38.8,96,high fever with rigors 103F since 3 days,diabetes,salbutamol inhaler,2026-09-01 12:13:00,3,Pediatrics,0
+58,M,90,87,28,38.4,88,"cannot breathe, gasping, lips blue",asthma,salbutamol inhaler,2026-09-01 12:20:00,1,Emergency,1
+81,F,132,86,80,36.9,97,skin rash itching since week,hypertension,metformin,2026-09-01 12:14:00,5,Dermatology,0
+54,M,105,63,94,39.2,96,"tez bukhar with thand lag, sar dard",none,salbutamol inhaler,2026-09-01 12:15:00,3,General Medicine,0
+53,F,129,65,72,36.9,99,"fever 99 with runny nose, no distress",COPD,none,2026-09-01 12:19:00,5,General Medicine,0
+0,F,103,72,91,40.3,95,"infant bukhar, doodh nahi pi raha",epilepsy,aspirin,2026-09-01 12:16:00,3,Pediatrics,0
+31,F,131,96,104,38.7,95,pet dard tez with ulti,epilepsy,metformin,2026-09-01 12:20:00,3,Gastroenterology,0
+10,F,124,82,69,37.4,99,halka bukhar sardi khansi,asthma,aspirin,2026-09-01 12:17:00,5,Pediatrics,0
+47,F,117,78,95,37.8,98,mild fever cold cough since 2 days,diabetes,aspirin,2026-09-01 12:23:00,5,General Medicine,0
+44,F,125,87,76,36.6,99,khujli with red patches on arms,hypertension,metformin,2026-09-01 12:19:00,5,Dermatology,0
+0,M,109,65,110,39.0,97,"infant bukhar, doodh nahi pi raha",CKD,salbutamol inhaler,2026-09-01 12:20:00,3,Pediatrics,0
+11,M,125,83,89,37.6,0,khujli with red patches on arms,none,amlodipine,2026-09-01 12:20:00,5,Pediatrics,0
+55,M,110,76,70,36.7,99,khujli with red patches on arms,asthma,metformin,2026-09-01 12:21:00,5,Dermatology,0
+79,M,132,85,70,36.9,97,khujli with red patches on arms,diabetes,amlodipine,2026-09-01 12:21:00,5,Dermatology,0
+5,M,111,81,90,37.0,97,"fever 99 with runny nose, no distress",pregnant,salbutamol inhaler,2026-09-01 12:23:00,5,Pediatrics,0
+85,F,117,0,66,37.6,98,"BP sugar followup, need refill, no complaints",hypertension,none,2026-09-01 12:22:00,5,General Medicine,0
+87,F,160,86,111,38.0,95,pet dard tez with ulti,pregnant,aspirin,2026-09-01 12:23:00,3,Gastroenterology,0
+60,M,144,78,109,39.8,0,"tez bukhar with thand lag, sar dard",diabetes,salbutamol inhaler,2026-09-01 12:26:00,3,General Medicine,0
+14,F,126,82,72,36.8,97,eye redness watering since 2 days,pregnant,aspirin,2026-09-01 12:26:00,5,Ophthalmology,0
+85,M,142,68,104,36.7,99,"ankle sprain after fall, swelling",epilepsy,aspirin,2026-09-01 12:26:00,4,Orthopedics,0
+14,F,107,68,67,37.5,98,skin rash itching since week,hypertension,salbutamol inhaler,2026-09-01 12:25:00,5,Dermatology,0
+46,M,121,86,84,36.8,99,khujli with red patches on arms,none,aspirin,2026-09-01 12:26:00,5,Dermatology,0
+64,M,113,87,83,0.0,98,"fever 99 with runny nose, no distress",COPD,metformin,2026-09-01 12:28:00,5,General Medicine,0
+1,M,97,95,102,0.0,96,"infant bukhar, doodh nahi pi raha",COPD,none,2026-09-01 12:28:00,3,Pediatrics,0
+83,M,123,69,79,37.1,99,"fever 99 with runny nose, no distress",diabetes,metformin,2026-09-01 12:28:00,5,General Medicine,0
+1,M,101,67,106,0.0,96,"severe 3 month baby fever, poor feeding",asthma,aspirin,2026-09-01 12:31:00,3,Pediatrics,0
+83,F,130,100,110,38.9,97,"tez bukhar with thand lag, sar dard",none,salbutamol inhaler,2026-09-01 12:31:00,3,General Medicine,0
+1,F,111,66,100,39.8,94,"infant bukhar, doodh nahi pi raha",none,amlodipine,2026-09-01 12:30:00,3,Pediatrics,0
+15,M,118,60,107,40.0,97,high fever with rigors 103F since 3 days,hypertension,amlodipine,2026-09-01 12:37:00,3,General Medicine,0
+84,M,112,74,66,37.7,99,"BP sugar followup, need refill, no complaints",pregnant,none,2026-09-01 12:32:00,5,General Medicine,0
+24,M,133,73,120,39.5,0,high fever with rigors 103F since 3 days,epilepsy,metformin,2026-09-01 12:32:00,3,General Medicine,0
+18,M,104,77,110,37.9,97,"ankle sprain after fall, swelling",epilepsy,aspirin,2026-09-01 12:31:00,4,Orthopedics,0
+14,F,103,81,110,38.9,0,"tez bukhar with thand lag, sar dard",COPD,aspirin,2026-09-01 12:38:00,3,General Medicine,0
+39,F,107,93,101,39.4,96,high fever with rigors 103F since 3 days,epilepsy,aspirin,2026-09-01 12:34:00,3,General Medicine,0
+1,M,142,75,111,39.8,97,"3 month baby fever, poor feeding",COPD,salbutamol inhaler,2026-09-01 12:35:00,3,Pediatrics,0
+11,M,104,75,75,37.7,0,"ankle sprain after fall, swelling",asthma,aspirin,2026-09-01 12:35:00,4,Pediatrics,0
+24,M,149,94,113,38.6,96,"severe tez bukhar with thand lag, sar dard",none,metformin,2026-09-01 12:37:00,3,General Medicine,0
+17,F,101,87,105,38.4,97,severe severe stomach pain vomiting since night,CKD,salbutamol inhaler,2026-09-01 12:36:00,3,Gastroenterology,0
+50,M,134,74,94,99.0,0,"fever 99 with runny nose, no distress",none,salbutamol inhaler,2026-09-01 12:36:00,5,General Medicine,0
+1,M,118,80,71,0.0,97,"BP sugar followup, need refill, no complaints",none,aspirin,2026-09-01 12:37:00,5,Pediatrics,0
+1,F,115,68,101,38.0,97,"infant bukhar, doodh nahi pi raha",pregnant,amlodipine,2026-09-01 12:37:00,3,Pediatrics,0
+62,F,130,86,87,36.9,97,eye redness watering since 2 days,diabetes,amlodipine,2026-09-01 12:40:00,5,Ophthalmology,0
+30,M,126,75,78,37.5,99,"BP sugar followup, need refill, no complaints",asthma,metformin,2026-09-01 12:39:00,5,General Medicine,0
+54,M,86,63,29,37.9,0,"road traffic accident, head injury, bleeding",hypertension,aspirin,2026-09-01 12:40:00,1,Emergency,1
+61,M,160,87,110,38.8,94,severe stomach pain vomiting since night,hypertension,amlodipine,2026-09-01 12:39:00,3,Gastroenterology,0
+77,M,150,71,0,38.9,97,pet dard tez with ulti,pregnant,none,2026-09-01 12:41:00,3,Gastroenterology,0
+13,M,140,67,72,36.9,97,"ankle sprain after fall, swelling",COPD,none,2026-09-01 12:43:00,4,Orthopedics,0
+32,F,0,88,110,40.3,0,pet dard tez with ulti,asthma,salbutamol inhaler,2026-09-01 12:41:00,3,Gastroenterology,0
+68,M,116,88,114,0.0,97,pet dard tez with ulti,hypertension,none,2026-09-01 12:43:00,3,Gastroenterology,0
+90,F,135,0,80,36.6,97,"ankle sprain after fall, swelling",hypertension,metformin,2026-09-01 12:51:00,4,Orthopedics,0
+80,F,136,65,120,0.0,96,high fever with rigors 103F since 3 days,COPD,salbutamol inhaler,2026-09-01 12:43:00,3,General Medicine,0
+32,M,151,74,100,38.5,96,"tez bukhar with thand lag, sar dard",asthma,aspirin,2026-09-01 12:43:00,3,General Medicine,0
+1,M,131,61,99,40.2,95,"3 month baby fever, poor feeding",epilepsy,amlodipine,2026-09-01 12:46:00,3,Pediatrics,0
+49,M,108,65,89,37.7,99,"severe fever 99 with runny nose, no distress",hypertension,amlodipine,2026-09-01 12:46:00,5,General Medicine,0
+72,F,0,79,100,38.4,97,high fever with rigors 103F since 3 days,CKD,amlodipine,2026-09-01 12:47:00,3,General Medicine,0
+0,M,149,84,94,39.6,96,"3 month baby fever, poor feeding",asthma,amlodipine,2026-09-01 12:46:00,3,Pediatrics,0
+15,F,105,62,108,36.9,97,"ankle sprain after fall, swelling",CKD,salbutamol inhaler,2026-09-01 12:50:00,4,Orthopedics,0
+9,M,132,69,89,36.7,99,eye redness watering since 2 days,epilepsy,salbutamol inhaler,2026-09-01 12:47:00,5,Pediatrics,0
+1,F,158,87,105,39.5,97,"3 month baby fever, poor feeding",none,none,2026-09-01 12:49:00,3,Pediatrics,0
+88,M,106,75,101,38.5,94,"tez bukhar with thand lag, sar dard",pregnant,metformin,2026-09-01 12:49:00,3,General Medicine,0
+28,M,128,0,68,37.4,99,skin rash itching since week,diabetes,aspirin,2026-09-01 12:52:00,5,Dermatology,0
+10,M,107,65,83,36.7,98,mild fever cold cough since 2 days,pregnant,aspirin,2026-09-01 12:52:00,5,Pediatrics,0
+82,M,138,71,102,36.5,97,"severe ankle sprain after fall, swelling",CKD,metformin,2026-09-01 12:51:00,4,Orthopedics,0
+16,M,146,99,91,0.0,95,"tez bukhar with thand lag, sar dard",epilepsy,aspirin,2026-09-01 12:51:00,3,General Medicine,0
+13,M,116,84,0,36.5,98,skin rash itching since week,COPD,amlodipine,2026-09-01 12:52:00,5,Dermatology,0
+61,M,106,75,67,36.5,98,"fever 99 with runny nose, no distress",asthma,amlodipine,2026-09-01 12:53:00,5,General Medicine,0
+48,F,0,78,95,39.7,95,severe high fever with rigors 103F since 3 days,asthma,metformin,2026-09-01 13:02:00,3,General Medicine,0
+43,F,116,84,92,36.6,98,"BP sugar followup, stable, need medicines",none,amlodipine,2026-09-01 12:56:00,5,General Medicine,0
+11,F,106,89,90,38.4,97,"ankle sprain after fall, swelling",CKD,aspirin,2026-09-01 13:01:00,4,Pediatrics,0
+72,F,106,76,92,37.0,98,eye redness watering since 2 days,pregnant,amlodipine,2026-09-01 12:56:00,5,Ophthalmology,0
+5,M,147,75,105,36.8,96,"ankle sprain after fall, swelling",diabetes,salbutamol inhaler,2026-09-01 12:56:00,4,Pediatrics,0
+13,F,129,78,71,36.9,98,severe eye redness watering since 2 days,hypertension,none,2026-09-01 12:56:00,5,Ophthalmology,0
+76,F,102,83,0,40.4,97,pet dard tez with ulti,asthma,amlodipine,2026-09-01 12:56:00,3,Gastroenterology,0
+57,F,122,76,95,38.2,94,"tez bukhar with thand lag, sar dard",none,none,2026-09-01 12:59:00,3,General Medicine,0
+73,F,131,65,82,36.8,99,khujli with red patches on arms,pregnant,amlodipine,2026-09-01 12:57:00,5,Dermatology,0
+0,F,128,93,113,40.5,94,"infant bukhar, doodh nahi pi raha",COPD,aspirin,2026-09-01 13:00:00,3,Pediatrics,0
+24,M,116,76,65,37.7,98,skin rash itching since week,pregnant,none,2026-09-01 12:59:00,5,Dermatology,0
+58,F,116,70,82,36.7,99,"BP sugar followup, need refill, no complaints",diabetes,amlodipine,2026-09-01 13:02:00,5,General Medicine,0
+13,F,128,84,0,36.6,99,"fever 99 with runny nose, no distress",none,none,2026-09-01 13:00:00,5,General Medicine,0
+59,F,134,85,87,37.0,99,eye redness watering since 2 days,epilepsy,metformin,2026-09-01 13:00:00,5,Ophthalmology,0
+47,F,115,70,95,37.8,99,severe mild fever cold cough since 2 days,epilepsy,metformin,2026-09-01 13:06:00,5,General Medicine,0
+0,F,124,66,112,39.3,95,"infant bukhar, doodh nahi pi raha",pregnant,metformin,2026-09-01 13:01:00,3,Pediatrics,0
+90,M,182,58,108,38.9,93,seene me dard with pasina and saans phool raha,epilepsy,salbutamol inhaler,2026-09-01 13:04:00,2,Cardiology,1
+0,M,153,98,0,38.4,94,"3 month baby fever, poor feeding",diabetes,aspirin,2026-09-01 13:06:00,3,Pediatrics,0
+53,F,133,0,85,37.6,98,eye redness watering since 2 days,pregnant,salbutamol inhaler,2026-09-01 13:04:00,5,Ophthalmology,0
+32,M,111,84,65,36.5,99,mild fever cold cough since 2 days,COPD,amlodipine,2026-09-01 13:06:00,5,General Medicine,0
+11,F,145,95,88,38.0,99,"ankle sprain after fall, swelling",CKD,aspirin,2026-09-01 13:05:00,4,Pediatrics,0
+62,F,128,87,108,38.1,98,"ankle sprain after fall, swelling",diabetes,aspirin,2026-09-01 13:05:00,4,Orthopedics,0
+82,F,125,61,77,38.1,97,"ankle sprain after fall, swelling",pregnant,amlodipine,2026-09-01 13:06:00,4,Orthopedics,0
+41,M,122,67,77,37.3,98,"BP sugar followup, need refill, no complaints",diabetes,none,2026-09-01 13:11:00,5,General Medicine,0
+25,M,106,80,80,37.8,97,khujli with red patches on arms,CKD,amlodipine,2026-09-01 13:09:00,5,Dermatology,0
+51,M,133,0,94,36.6,99,halka bukhar sardi khansi,pregnant,aspirin,2026-09-01 13:07:00,5,General Medicine,0
+89,F,120,85,95,37.6,97,eye redness watering since 2 days,epilepsy,metformin,2026-09-01 13:08:00,5,Ophthalmology,0
+6,F,0,66,68,37.7,97,"BP sugar followup, need refill, no complaints",asthma,none,2026-09-01 13:10:00,5,Pediatrics,0
+0,M,156,91,98,39.9,96,"infant bukhar, doodh nahi pi raha",COPD,metformin,2026-09-01 13:11:00,3,Pediatrics,0
+85,M,119,77,71,36.6,98,eye redness watering since 2 days,none,metformin,2026-09-01 13:13:00,5,Ophthalmology,0
+1,F,160,72,114,38.5,97,"3 month baby fever, poor feeding",diabetes,amlodipine,2026-09-01 13:11:00,3,Pediatrics,0
+1,F,128,67,119,38.9,94,"severe infant bukhar, doodh nahi pi raha",hypertension,aspirin,2026-09-01 13:14:00,3,Pediatrics,0
+35,F,133,87,0,0.0,96,"ankle sprain after fall, swelling",diabetes,salbutamol inhaler,2026-09-01 13:12:00,4,Orthopedics,0
+28,F,120,71,70,37.0,97,khujli with red patches on arms,none,salbutamol inhaler,2026-09-01 13:16:00,5,Dermatology,0
+0,M,137,0,94,39.7,94,"infant bukhar, doodh nahi pi raha",hypertension,none,2026-09-01 13:14:00,3,Pediatrics,0
+60,M,106,65,83,37.8,99,halka bukhar sardi khansi,pregnant,aspirin,2026-09-01 13:15:00,5,General Medicine,0
+58,M,122,79,0,36.7,99,"ankle sprain after fall, swelling",asthma,salbutamol inhaler,2026-09-01 13:15:00,4,Orthopedics,0
+11,M,134,77,85,37.8,97,khujli with red patches on arms,CKD,salbutamol inhaler,2026-09-01 13:19:00,5,Pediatrics,0
+5,F,131,84,68,37.5,0,khujli with red patches on arms,asthma,aspirin,2026-09-01 13:17:00,5,Pediatrics,0
+38,F,118,64,88,37.4,0,"ankle sprain after fall, swelling",hypertension,amlodipine,2026-09-01 13:16:00,4,Orthopedics,0
+71,M,105,77,0,37.4,97,"ankle sprain after fall, swelling",epilepsy,aspirin,2026-09-01 13:17:00,4,Orthopedics,0
+22,F,74,138,29,39.2,88,"road traffic accident, head injury, bleeding",epilepsy,amlodipine,2026-09-01 13:17:00,1,Emergency,1
+54,F,0,78,79,37.7,97,"BP sugar followup, stable, need medicines",pregnant,metformin,2026-09-01 13:19:00,5,General Medicine,0
+16,F,142,60,99,38.2,99,"ankle sprain after fall, swelling",none,salbutamol inhaler,2026-09-01 13:22:00,4,Orthopedics,0
+18,F,109,72,93,37.3,99,"fever 99 with runny nose, no distress",COPD,amlodipine,2026-09-01 13:19:00,5,General Medicine,0
+13,F,98,92,104,38.1,97,high fever with rigors 103F since 3 days,none,none,2026-09-01 13:20:00,3,General Medicine,0
+84,M,110,81,88,37.2,99,mild fever cold cough since 2 days,epilepsy,aspirin,2026-09-01 13:22:00,5,General Medicine,0
+36,F,0,83,77,37.3,97,khujli with red patches on arms,asthma,aspirin,2026-09-01 13:25:00,5,Dermatology,0
+64,M,116,87,81,37.2,98,mild fever cold cough since 2 days,asthma,salbutamol inhaler,2026-09-01 13:24:00,5,General Medicine,0
+82,F,117,80,84,36.7,99,skin rash itching since week,pregnant,none,2026-09-01 13:24:00,5,Dermatology,0
+20,M,108,86,68,37.7,98,mild fever cold cough since 2 days,asthma,aspirin,2026-09-01 13:25:00,5,General Medicine,0
+14,M,104,88,114,39.5,96,high fever with rigors 103F since 3 days,COPD,metformin,2026-09-01 13:23:00,3,General Medicine,0
+55,M,105,61,110,36.9,96,"ankle sprain after fall, swelling",asthma,none,2026-09-01 13:25:00,4,Orthopedics,0
+71,M,130,67,79,37.3,98,eye redness watering since 2 days,hypertension,none,2026-09-01 13:26:00,5,Ophthalmology,0
+45,M,72,113,167,39.4,88,"saans nahi aa rahi, dam ghut raha hai",hypertension,salbutamol inhaler,2026-09-01 13:26:00,1,Emergency,1
+42,M,112,80,0,37.7,99,mild fever cold cough since 2 days,diabetes,none,2026-09-01 13:27:00,5,General Medicine,0
+64,M,125,76,0,0.0,98,severe mild fever cold cough since 2 days,epilepsy,amlodipine,2026-09-01 13:28:00,5,General Medicine,0
+54,M,108,79,68,0.0,99,skin rash itching since week,COPD,aspirin,2026-09-01 13:29:00,5,Dermatology,0
+31,M,0,66,69,36.7,98,mild fever cold cough since 2 days,none,amlodipine,2026-09-01 13:29:00,5,General Medicine,0
+45,M,151,79,120,40.0,96,pet dard tez with ulti,hypertension,salbutamol inhaler,2026-09-01 13:32:00,3,Gastroenterology,0
+17,M,114,88,0,36.7,97,severe eye redness watering since 2 days,diabetes,amlodipine,2026-09-01 13:30:00,5,Ophthalmology,0
+10,M,117,0,101,38.2,96,"ankle sprain after fall, swelling",CKD,amlodipine,2026-09-01 13:30:00,4,Pediatrics,0
+43,F,130,83,71,36.9,97,"fever 99 with runny nose, no distress",diabetes,none,2026-09-01 13:30:00,5,General Medicine,0
+59,F,136,93,86,38.4,97,"ankle sprain after fall, swelling",CKD,amlodipine,2026-09-01 13:44:00,4,Orthopedics,0
+78,F,123,77,86,36.7,96,"ankle sprain after fall, swelling",none,amlodipine,2026-09-01 13:37:00,4,Orthopedics,0
+10,F,135,64,104,38.6,95,severe pet dard tez with ulti,hypertension,metformin,2026-09-01 13:32:00,3,Pediatrics,0
+29,M,135,87,73,0.0,98,severe eye redness watering since 2 days,none,amlodipine,2026-09-01 13:33:00,5,Ophthalmology,0
+87,F,107,85,78,36.7,98,"BP sugar followup, stable, need medicines",CKD,none,2026-09-01 13:33:00,5,General Medicine,0
+3,M,80,131,167,38.6,85,"road traffic accident, head injury, bleeding",COPD,none,2026-09-01 13:35:00,1,Emergency,1
+67,M,124,80,86,37.2,99,skin rash itching since week,pregnant,metformin,2026-09-01 13:35:00,5,Dermatology,0
+52,F,105,82,107,40.3,94,high fever with rigors 103F since 3 days,asthma,none,2026-09-01 13:35:00,3,General Medicine,0
+1,F,110,65,103,39.3,97,"infant bukhar, doodh nahi pi raha",asthma,amlodipine,2026-09-01 13:36:00,3,Pediatrics,0
+4,F,105,87,70,36.7,97,eye redness watering since 2 days,CKD,amlodipine,2026-09-01 13:36:00,5,Pediatrics,0
+5,M,128,76,95,37.7,98,"BP sugar followup, need refill, no complaints",diabetes,metformin,2026-09-01 13:41:00,5,Pediatrics,0
+56,M,121,88,83,37.7,98,"BP sugar followup, stable, need medicines",epilepsy,salbutamol inhaler,2026-09-01 13:37:00,5,General Medicine,0
+0,F,130,96,118,38.2,96,"severe 3 month baby fever, poor feeding",CKD,none,2026-09-01 13:40:00,3,Pediatrics,0
+65,M,101,0,104,36.5,97,"ankle sprain after fall, swelling",asthma,aspirin,2026-09-01 13:39:00,4,Orthopedics,0
+63,F,106,68,98,0.0,94,"tez bukhar with thand lag, sar dard",none,none,2026-09-01 13:41:00,3,General Medicine,0
+90,F,111,0,86,36.5,99,"BP sugar followup, need refill, no complaints",CKD,aspirin,2026-09-01 13:39:00,5,General Medicine,0
+81,M,0,0,92,37.5,99,eye redness watering since 2 days,CKD,none,2026-09-01 13:41:00,5,Ophthalmology,0
+23,F,131,72,93,37.4,98,"BP sugar followup, stable, need medicines",CKD,aspirin,2026-09-01 13:47:00,5,General Medicine,0
+40,M,116,87,77,36.7,99,skin rash itching since week,CKD,none,2026-09-01 13:41:00,5,Dermatology,0
+41,F,126,75,0,37.6,98,skin rash itching since week,hypertension,salbutamol inhaler,2026-09-01 13:43:00,5,Dermatology,0
+0,F,0,98,107,40.4,94,"3 month baby fever, poor feeding",diabetes,amlodipine,2026-09-01 13:44:00,3,Pediatrics,0
+50,M,132,70,119,0.0,0,severe stomach pain vomiting since night,diabetes,none,2026-09-01 13:44:00,3,Gastroenterology,0
+0,M,99,77,113,40.0,94,"infant bukhar, doodh nahi pi raha",epilepsy,amlodipine,2026-09-01 13:43:00,3,Pediatrics,0
+1,M,134,80,103,38.8,94,"3 month baby fever, poor feeding",COPD,aspirin,2026-09-01 13:46:00,3,Pediatrics,0
+63,F,142,0,112,39.1,94,severe pet dard tez with ulti,CKD,salbutamol inhaler,2026-09-01 13:45:00,3,Gastroenterology,0
+26,F,126,65,94,39.5,97,high fever with rigors 103F since 3 days,CKD,salbutamol inhaler,2026-09-01 13:49:00,3,General Medicine,0
+26,F,122,80,75,36.8,99,skin rash itching since week,epilepsy,amlodipine,2026-09-01 13:47:00,5,Dermatology,0
+1,M,99,87,105,39.6,0,"3 month baby fever, poor feeding",CKD,salbutamol inhaler,2026-09-01 13:48:00,3,Pediatrics,0
+66,M,130,84,95,37.0,99,"BP sugar followup, need refill, no complaints",asthma,metformin,2026-09-01 13:48:00,5,General Medicine,0
+19,F,107,65,74,0.0,99,halka bukhar sardi khansi,pregnant,none,2026-09-01 13:52:00,5,General Medicine,0
+54,F,116,84,89,37.7,98,mild fever cold cough since 2 days,asthma,salbutamol inhaler,2026-09-01 13:50:00,5,General Medicine,0
+75,F,135,88,92,37.4,99,khujli with red patches on arms,asthma,metformin,2026-09-01 13:49:00,5,Dermatology,0
+6,M,121,79,78,37.1,99,"BP sugar followup, need refill, no complaints",pregnant,salbutamol inhaler,2026-09-01 13:53:00,5,Pediatrics,0
+81,F,113,87,107,39.2,97,high fever with rigors 103F since 3 days,pregnant,aspirin,2026-09-01 13:53:00,3,General Medicine,0
+24,F,116,70,94,37.8,99,skin rash itching since week,CKD,none,2026-09-01 13:56:00,5,Dermatology,0
+61,F,0,87,0,36.9,98,"fever 99 with runny nose, no distress",none,aspirin,2026-09-01 13:51:00,5,General Medicine,0
+78,M,117,68,92,40.1,97,high fever with rigors 103F since 3 days,COPD,none,2026-09-01 13:54:00,3,General Medicine,0
+75,F,121,65,0,37.0,99,"BP sugar followup, need refill, no complaints",diabetes,metformin,2026-09-01 13:53:00,5,General Medicine,0
+0,F,130,95,101,38.9,94,pet dard tez with ulti,diabetes,metformin,2026-09-01 13:54:00,3,Pediatrics,0
+27,F,119,67,93,37.7,99,mild fever cold cough since 2 days,CKD,amlodipine,2026-09-01 13:54:00,5,General Medicine,0
+28,M,117,72,81,37.0,98,"ankle sprain after fall, swelling",asthma,amlodipine,2026-09-01 14:00:00,4,Orthopedics,0
+1,F,131,73,100,0.0,96,"3 month baby fever, poor feeding",asthma,aspirin,2026-09-01 13:55:00,3,Pediatrics,0
+4,F,0,68,85,37.6,98,"BP sugar followup, stable, need medicines",CKD,metformin,2026-09-01 13:57:00,5,Pediatrics,0
+58,F,128,77,80,36.8,97,halka bukhar sardi khansi,diabetes,aspirin,2026-09-01 13:57:00,5,General Medicine,0
+21,F,133,84,95,37.7,99,skin rash itching since week,diabetes,salbutamol inhaler,2026-09-01 14:00:00,5,Dermatology,0
+58,M,126,69,71,36.9,97,"BP sugar followup, stable, need medicines",pregnant,amlodipine,2026-09-01 13:58:00,5,General Medicine,0
+60,F,131,79,87,37.5,97,eye redness watering since 2 days,epilepsy,none,2026-09-01 13:59:00,5,Ophthalmology,0
+77,M,129,72,76,36.9,98,eye redness watering since 2 days,COPD,amlodipine,2026-09-01 13:59:00,5,Ophthalmology,0
+54,M,0,74,77,37.6,99,"BP sugar followup, stable, need medicines",none,amlodipine,2026-09-01 14:00:00,5,General Medicine,0
+16,F,126,79,0,37.3,98,skin rash itching since week,none,none,2026-09-01 14:00:00,5,Dermatology,0
+22,F,0,77,92,36.6,99,"BP sugar followup, stable, need medicines",none,aspirin,2026-09-01 14:00:00,5,General Medicine,0
+6,F,0,87,100,39.9,96,"tez bukhar with thand lag, sar dard",hypertension,none,2026-09-01 14:01:00,3,Pediatrics,0
+68,M,109,88,69,37.1,99,skin rash itching since week,none,amlodipine,2026-09-01 14:01:00,5,Dermatology,0
+0,F,133,87,102,0.0,94,"3 month baby fever, poor feeding",COPD,none,2026-09-01 14:03:00,3,Pediatrics,0
+60,M,150,77,113,38.7,95,severe stomach pain vomiting since night,hypertension,aspirin,2026-09-01 14:05:00,3,Gastroenterology,0
+28,M,127,75,72,37.3,97,severe eye redness watering since 2 days,none,none,2026-09-01 14:03:00,5,Ophthalmology,0
+63,M,122,87,70,0.0,99,"BP sugar followup, stable, need medicines",diabetes,metformin,2026-09-01 14:06:00,5,General Medicine,0
+86,F,101,69,109,37.7,97,"ankle sprain after fall, swelling",COPD,aspirin,2026-09-01 14:09:00,4,Orthopedics,0
+27,M,132,71,117,39.9,95,high fever with rigors 103F since 3 days,CKD,salbutamol inhaler,2026-09-01 14:08:00,3,General Medicine,0
+51,F,129,79,0,36.7,98,"BP sugar followup, stable, need medicines",diabetes,aspirin,2026-09-01 14:07:00,5,General Medicine,0
+3,M,109,84,84,37.8,99,khujli with red patches on arms,none,amlodipine,2026-09-01 14:12:00,5,Pediatrics,0
+24,F,202,102,115,0.0,0,labour pain with bleeding,pregnant,metformin,2026-09-01 14:09:00,2,OBGYN,1
+64,M,0,70,97,39.8,97,severe stomach pain vomiting since night,epilepsy,amlodipine,2026-09-01 14:10:00,3,Gastroenterology,0
+7,F,145,62,101,39.8,97,high fever with rigors 103F since 3 days,diabetes,metformin,2026-09-01 14:09:00,3,Pediatrics,0
+0,F,107,81,110,39.1,94,"3 month baby fever, poor feeding",none,salbutamol inhaler,2026-09-01 14:10:00,3,Pediatrics,0
+0,M,142,96,101,38.8,96,"3 month baby fever, poor feeding",asthma,metformin,2026-09-01 14:11:00,3,Pediatrics,0
+27,F,109,60,86,37.9,98,"severe ankle sprain after fall, swelling",asthma,none,2026-09-01 14:14:00,4,Orthopedics,0
+62,M,132,81,0,37.1,97,"BP sugar followup, stable, need medicines",diabetes,metformin,2026-09-01 14:11:00,5,General Medicine,0
+67,M,128,71,76,36.5,99,"fever 99 with runny nose, no distress",diabetes,amlodipine,2026-09-01 14:12:00,5,General Medicine,0
+23,M,124,89,95,40.4,94,pet dard tez with ulti,asthma,none,2026-09-01 14:12:00,3,Gastroenterology,0
+68,M,135,100,92,39.2,95,pet dard tez with ulti,hypertension,none,2026-09-01 14:13:00,3,Gastroenterology,0
+81,F,105,73,89,37.3,98,eye redness watering since 2 days,COPD,salbutamol inhaler,2026-09-01 14:13:00,5,Ophthalmology,0
+23,F,100,80,102,37.5,99,"ankle sprain after fall, swelling",asthma,metformin,2026-09-01 14:16:00,4,Orthopedics,0
+40,F,108,79,119,39.4,95,pet dard tez with ulti,asthma,salbutamol inhaler,2026-09-01 14:20:00,3,Gastroenterology,0
+33,F,134,74,76,36.9,97,khujli with red patches on arms,hypertension,aspirin,2026-09-01 14:15:00,5,Dermatology,0
+0,M,121,76,99,38.1,96,"infant bukhar, doodh nahi pi raha",none,salbutamol inhaler,2026-09-01 14:15:00,3,Pediatrics,0
+75,F,135,66,89,37.0,99,"BP sugar followup, stable, need medicines",hypertension,salbutamol inhaler,2026-09-01 14:16:00,5,General Medicine,0
+9,F,149,86,79,37.7,97,"ankle sprain after fall, swelling",CKD,amlodipine,2026-09-01 14:17:00,4,Pediatrics,0
+57,M,110,75,79,37.1,97,"BP sugar followup, stable, need medicines",diabetes,aspirin,2026-09-01 14:18:00,5,General Medicine,0
+65,F,105,83,78,37.7,97,"severe fever 99 with runny nose, no distress",diabetes,none,2026-09-01 14:18:00,5,General Medicine,0
+11,F,119,64,114,40.0,97,high fever with rigors 103F since 3 days,pregnant,aspirin,2026-09-01 14:20:00,3,Pediatrics,0
+37,M,124,77,65,36.8,97,skin rash itching since week,COPD,none,2026-09-01 14:24:00,5,Dermatology,0
+0,F,118,66,90,39.9,94,"3 month baby fever, poor feeding",CKD,metformin,2026-09-01 14:20:00,3,Pediatrics,0
+56,M,143,61,104,39.0,95,severe pet dard tez with ulti,asthma,none,2026-09-01 14:25:00,3,Gastroenterology,0
+15,F,140,80,103,38.5,95,high fever with rigors 103F since 3 days,epilepsy,aspirin,2026-09-01 14:22:00,3,General Medicine,0
+8,F,135,85,74,37.8,97,"BP sugar followup, stable, need medicines",pregnant,amlodipine,2026-09-01 14:21:00,5,Pediatrics,0
+17,F,129,66,66,37.5,99,mild fever cold cough since 2 days,asthma,metformin,2026-09-01 14:23:00,5,General Medicine,0
+1,F,0,0,109,38.1,96,"3 month baby fever, poor feeding",epilepsy,none,2026-09-01 14:25:00,3,Pediatrics,0
+28,M,148,64,93,102.6,97,high fever with rigors 103F since 3 days,none,aspirin,2026-09-01 14:27:00,3,General Medicine,0
+85,M,120,80,88,36.8,99,"BP sugar followup, stable, need medicines",epilepsy,salbutamol inhaler,2026-09-01 14:28:00,5,General Medicine,0
+84,F,137,89,111,39.9,96,pet dard tez with ulti,epilepsy,amlodipine,2026-09-01 14:27:00,3,Gastroenterology,0
+30,M,117,75,65,37.1,99,mild fever cold cough since 2 days,none,none,2026-09-01 14:25:00,5,General Medicine,0
+43,F,111,76,91,38.0,99,"ankle sprain after fall, swelling",epilepsy,amlodipine,2026-09-01 14:32:00,4,Orthopedics,0
+15,F,111,82,99,39.1,97,pet dard tez with ulti,COPD,metformin,2026-09-01 14:30:00,3,Gastroenterology,0
+45,M,123,81,81,37.5,97,mild fever cold cough since 2 days,asthma,none,2026-09-01 14:27:00,5,General Medicine,0
+1,M,146,78,102,0.0,97,"infant bukhar, doodh nahi pi raha",CKD,metformin,2026-09-01 14:32:00,3,Pediatrics,0
+17,M,156,70,114,39.0,95,high fever with rigors 103F since 3 days,CKD,metformin,2026-09-01 14:32:00,3,General Medicine,0
+1,F,96,100,93,39.3,96,"3 month baby fever, poor feeding",none,metformin,2026-09-01 14:28:00,3,Pediatrics,0
+5,F,131,73,68,37.1,99,"BP sugar followup, stable, need medicines",diabetes,amlodipine,2026-09-01 14:41:00,5,Pediatrics,0
+85,F,131,87,95,37.0,98,"BP sugar followup, need refill, no complaints",pregnant,aspirin,2026-09-01 14:32:00,5,General Medicine,0
+62,M,123,80,72,37.1,99,"severe BP sugar followup, need refill, no complaints",epilepsy,amlodipine,2026-09-01 14:32:00,5,General Medicine,0
+30,F,148,85,112,38.9,94,high fever with rigors 103F since 3 days,epilepsy,amlodipine,2026-09-01 14:31:00,3,General Medicine,0
+52,M,128,79,92,37.0,98,"BP sugar followup, need refill, no complaints",CKD,metformin,2026-09-01 14:32:00,5,General Medicine,0
+22,F,132,67,75,37.3,98,"BP sugar followup, stable, need medicines",epilepsy,salbutamol inhaler,2026-09-01 14:34:00,5,General Medicine,0
+90,F,116,75,90,37.7,98,skin rash itching since week,CKD,none,2026-09-01 14:34:00,5,Dermatology,0
+76,F,128,69,112,39.3,96,severe high fever with rigors 103F since 3 days,CKD,none,2026-09-01 14:35:00,3,General Medicine,0
+31,M,130,61,105,104.2,95,pet dard tez with ulti,COPD,amlodipine,2026-09-01 14:38:00,3,Gastroenterology,0
+72,M,118,70,92,37.3,99,eye redness watering since 2 days,CKD,aspirin,2026-09-01 14:35:00,5,Ophthalmology,0
+9,M,136,75,115,38.2,95,pet dard tez with ulti,COPD,salbutamol inhaler,2026-09-01 14:37:00,3,Pediatrics,0
+6,F,151,0,108,38.2,97,pet dard tez with ulti,asthma,amlodipine,2026-09-01 14:38:00,3,Pediatrics,0
+3,F,127,68,95,37.8,97,"ankle sprain after fall, swelling",epilepsy,metformin,2026-09-01 14:39:00,4,Pediatrics,0
+6,F,123,68,89,37.3,97,"BP sugar followup, need refill, no complaints",asthma,metformin,2026-09-01 14:37:00,5,Pediatrics,0
+51,F,147,84,112,38.3,97,"severe tez bukhar with thand lag, sar dard",asthma,salbutamol inhaler,2026-09-01 14:38:00,3,General Medicine,0
+12,F,97,0,91,0.0,94,"tez bukhar with thand lag, sar dard",pregnant,amlodipine,2026-09-01 14:44:00,3,General Medicine,0
+44,M,132,86,94,37.3,97,eye redness watering since 2 days,none,amlodipine,2026-09-01 14:40:00,5,Ophthalmology,0
+13,F,118,97,106,40.3,95,"tez bukhar with thand lag, sar dard",epilepsy,aspirin,2026-09-01 14:45:00,3,General Medicine,0
+18,M,0,72,115,38.1,97,"tez bukhar with thand lag, sar dard",diabetes,none,2026-09-01 14:40:00,3,General Medicine,0
+17,F,129,71,0,37.1,99,skin rash itching since week,CKD,aspirin,2026-09-01 14:50:00,5,Dermatology,0
+24,M,114,83,88,0.0,99,"fever 99 with runny nose, no distress",hypertension,aspirin,2026-09-01 14:44:00,5,General Medicine,0
+0,M,107,0,120,40.2,95,"infant bukhar, doodh nahi pi raha",epilepsy,metformin,2026-09-01 14:46:00,3,Pediatrics,0
+42,M,124,74,93,36.6,99,"ankle sprain after fall, swelling",CKD,metformin,2026-09-01 14:48:00,4,Orthopedics,0
+52,F,117,72,101,37.7,98,"severe ankle sprain after fall, swelling",diabetes,amlodipine,2026-09-01 14:43:00,4,Orthopedics,0
+21,F,145,78,107,38.7,96,high fever with rigors 103F since 3 days,none,metformin,2026-09-01 14:44:00,3,General Medicine,0
+29,M,131,77,70,37.5,97,eye redness watering since 2 days,hypertension,none,2026-09-01 14:47:00,5,Ophthalmology,0
+1,M,138,76,119,38.9,95,severe pet dard tez with ulti,asthma,metformin,2026-09-01 14:45:00,3,Pediatrics,0
+31,F,0,70,69,37.8,99,severe halka bukhar sardi khansi,pregnant,salbutamol inhaler,2026-09-01 14:45:00,5,General Medicine,0
+72,M,0,96,0,39.9,95,severe stomach pain vomiting since night,epilepsy,salbutamol inhaler,2026-09-01 14:48:00,3,Gastroenterology,0
+44,F,156,69,104,38.6,96,pet dard tez with ulti,hypertension,aspirin,2026-09-01 14:50:00,3,Gastroenterology,0
+69,M,117,69,91,37.0,99,eye redness watering since 2 days,pregnant,salbutamol inhaler,2026-09-01 14:48:00,5,Ophthalmology,0
+24,M,141,89,107,38.9,97,severe stomach pain vomiting since night,epilepsy,amlodipine,2026-09-01 14:48:00,3,Gastroenterology,0
+1,M,151,61,112,39.0,95,"infant bukhar, doodh nahi pi raha",COPD,metformin,2026-09-01 14:49:00,3,Pediatrics,0
+0,M,103,65,90,40.3,94,"infant bukhar, doodh nahi pi raha",COPD,salbutamol inhaler,2026-09-01 14:52:00,3,Pediatrics,0
+90,M,114,74,68,36.7,99,"BP sugar followup, stable, need medicines",none,salbutamol inhaler,2026-09-01 14:52:00,5,General Medicine,0
+12,M,112,84,105,39.2,97,high fever with rigors 103F since 3 days,none,amlodipine,2026-09-01 14:57:00,3,General Medicine,0
+47,M,110,69,84,37.4,98,"BP sugar followup, stable, need medicines",CKD,amlodipine,2026-09-01 14:51:00,5,General Medicine,0
+75,F,110,76,92,36.7,98,eye redness watering since 2 days,COPD,salbutamol inhaler,2026-09-01 14:52:00,5,Ophthalmology,0
+84,F,126,67,0,36.5,99,"BP sugar followup, need refill, no complaints",none,aspirin,2026-09-01 14:53:00,5,General Medicine,0
+65,F,126,81,78,37.9,98,"ankle sprain after fall, swelling",pregnant,none,2026-09-01 14:57:00,4,Orthopedics,0
+22,F,62,139,0,39.7,82,"face drooping on one side, slurred speech since 1 hour",pregnant,amlodipine,2026-09-01 14:55:00,1,Emergency,1
+0,M,106,0,0,40.0,97,"3 month baby fever, poor feeding",COPD,aspirin,2026-09-01 14:55:00,3,Pediatrics,0
+7,F,111,92,70,36.9,96,"ankle sprain after fall, swelling",diabetes,metformin,2026-09-01 14:55:00,4,Pediatrics,0
+75,F,147,92,110,0.0,96,severe stomach pain vomiting since night,CKD,metformin,2026-09-01 14:55:00,3,Gastroenterology,0
+55,M,126,87,79,37.8,97,"BP sugar followup, need refill, no complaints",diabetes,none,2026-09-01 14:56:00,5,General Medicine,0
+61,F,120,74,89,0.0,98,eye redness watering since 2 days,none,salbutamol inhaler,2026-09-01 15:01:00,5,Ophthalmology,0
+59,F,0,69,88,37.0,98,khujli with red patches on arms,hypertension,aspirin,2026-09-01 15:00:00,5,Dermatology,0
+0,M,107,0,102,38.4,97,"3 month baby fever, poor feeding",COPD,metformin,2026-09-01 14:58:00,3,Pediatrics,0
+20,F,126,66,76,36.6,97,khujli with red patches on arms,epilepsy,aspirin,2026-09-01 14:58:00,5,Dermatology,0
+1,M,111,93,99,39.8,0,"infant bukhar, doodh nahi pi raha",epilepsy,metformin,2026-09-01 14:59:00,3,Pediatrics,0
+60,F,138,96,115,39.7,96,pet dard tez with ulti,COPD,metformin,2026-09-01 15:00:00,3,Gastroenterology,0
+12,F,129,69,84,36.6,98,halka bukhar sardi khansi,COPD,salbutamol inhaler,2026-09-01 15:02:00,5,General Medicine,0
+81,M,115,76,91,37.1,99,halka bukhar sardi khansi,COPD,none,2026-09-01 15:02:00,5,General Medicine,0
+67,F,0,77,78,0.0,99,"fever 99 with runny nose, no distress",diabetes,salbutamol inhaler,2026-09-01 15:02:00,5,General Medicine,0
+0,F,135,66,119,39.1,96,"infant bukhar, doodh nahi pi raha",hypertension,salbutamol inhaler,2026-09-01 15:03:00,3,Pediatrics,0
+80,F,125,0,77,36.9,97,"BP sugar followup, stable, need medicines",hypertension,metformin,2026-09-01 15:03:00,5,General Medicine,0
+0,M,106,0,101,0.0,96,"3 month baby fever, poor feeding",asthma,none,2026-09-01 15:06:00,3,Pediatrics,0
+33,M,0,66,85,0.0,99,eye redness watering since 2 days,asthma,metformin,2026-09-01 15:04:00,5,Ophthalmology,0
+37,F,0,86,0,37.0,99,skin rash itching since week,diabetes,none,2026-09-01 15:08:00,5,Dermatology,0
+0,F,129,95,101,38.4,97,"infant bukhar, doodh nahi pi raha",CKD,aspirin,2026-09-01 15:04:00,3,Pediatrics,0
+5,F,130,68,88,36.8,97,skin rash itching since week,pregnant,aspirin,2026-09-01 15:05:00,5,Pediatrics,0
+1,M,111,81,83,38.4,99,"severe ankle sprain after fall, swelling",CKD,metformin,2026-09-01 15:06:00,4,Pediatrics,0
+1,F,134,65,0,37.0,98,mild fever cold cough since 2 days,pregnant,amlodipine,2026-09-01 15:07:00,5,Pediatrics,0
+38,M,116,89,0,100.9,96,"ankle sprain after fall, swelling",diabetes,metformin,2026-09-01 15:08:00,4,Orthopedics,0
+61,M,146,0,83,99.1,96,"ankle sprain after fall, swelling",hypertension,amlodipine,2026-09-01 15:14:00,4,Orthopedics,0
+34,M,142,77,0,37.9,97,"ankle sprain after fall, swelling",none,metformin,2026-09-01 15:10:00,4,Orthopedics,0
+58,F,134,70,93,38.0,98,"ankle sprain after fall, swelling",pregnant,salbutamol inhaler,2026-09-01 15:09:00,4,Orthopedics,0
+55,M,124,73,93,36.9,97,eye redness watering since 2 days,asthma,none,2026-09-01 15:10:00,5,Ophthalmology,0
+0,F,105,86,118,40.5,94,"3 month baby fever, poor feeding",COPD,salbutamol inhaler,2026-09-01 15:11:00,3,Pediatrics,0
+50,M,123,76,88,37.4,98,"BP sugar followup, stable, need medicines",hypertension,none,2026-09-01 15:14:00,5,General Medicine,0
+51,F,121,0,110,40.4,94,"tez bukhar with thand lag, sar dard",diabetes,salbutamol inhaler,2026-09-01 15:12:00,3,General Medicine,0
+76,F,115,77,76,36.9,97,"severe BP sugar followup, stable, need medicines",none,salbutamol inhaler,2026-09-01 15:12:00,5,General Medicine,0
+12,F,127,83,84,37.7,98,eye redness watering since 2 days,CKD,none,2026-09-01 15:12:00,5,Ophthalmology,0
+43,M,155,62,100,39.4,96,"tez bukhar with thand lag, sar dard",hypertension,none,2026-09-01 15:14:00,3,General Medicine,0
+49,M,113,83,68,0.0,99,eye redness watering since 2 days,asthma,amlodipine,2026-09-01 15:14:00,5,Ophthalmology,0
+83,M,129,77,66,36.7,98,halka bukhar sardi khansi,diabetes,amlodipine,2026-09-01 15:14:00,5,General Medicine,0
+89,F,105,87,0,37.0,99,halka bukhar sardi khansi,diabetes,salbutamol inhaler,2026-09-01 15:19:00,5,General Medicine,0
+31,M,108,65,70,37.2,97,eye redness watering since 2 days,asthma,none,2026-09-01 15:16:00,5,Ophthalmology,0
+17,F,96,83,0,38.3,94,severe stomach pain vomiting since night,none,metformin,2026-09-01 15:16:00,3,Gastroenterology,0
+49,M,109,86,69,0.0,99,severe eye redness watering since 2 days,epilepsy,salbutamol inhaler,2026-09-01 15:22:00,5,Ophthalmology,0
+5,F,129,77,65,37.4,97,skin rash itching since week,epilepsy,metformin,2026-09-01 15:17:00,5,Pediatrics,0
+3,F,107,82,67,37.7,99,eye redness watering since 2 days,pregnant,salbutamol inhaler,2026-09-01 15:21:00,5,Pediatrics,0
+62,F,148,95,108,37.4,97,"ankle sprain after fall, swelling",CKD,salbutamol inhaler,2026-09-01 15:22:00,4,Orthopedics,0
+41,M,119,82,99,40.1,95,pet dard tez with ulti,asthma,salbutamol inhaler,2026-09-01 15:19:00,3,Gastroenterology,0
+74,M,108,88,88,37.3,98,"BP sugar followup, need refill, no complaints",COPD,aspirin,2026-09-01 15:21:00,5,General Medicine,0
+77,M,113,0,95,37.6,98,eye redness watering since 2 days,CKD,none,2026-09-01 15:22:00,5,Ophthalmology,0
+62,M,120,78,77,0.0,98,halka bukhar sardi khansi,CKD,metformin,2026-09-01 15:24:00,5,General Medicine,0
+84,M,105,68,75,37.4,99,severe skin rash itching since week,pregnant,metformin,2026-09-01 15:21:00,5,Dermatology,0
+49,M,122,84,65,36.6,97,"BP sugar followup, need refill, no complaints",COPD,metformin,2026-09-01 15:23:00,5,General Medicine,0
+0,M,134,87,108,39.1,97,"3 month baby fever, poor feeding",epilepsy,amlodipine,2026-09-01 15:24:00,3,Pediatrics,0
+67,F,115,65,80,37.3,99,eye redness watering since 2 days,epilepsy,metformin,2026-09-01 15:26:00,5,Ophthalmology,0
+31,F,133,72,77,37.6,0,"BP sugar followup, stable, need medicines",hypertension,aspirin,2026-09-01 15:25:00,5,General Medicine,0
+57,F,107,78,73,36.8,98,halka bukhar sardi khansi,COPD,amlodipine,2026-09-01 15:32:00,5,General Medicine,0
+20,M,101,76,92,39.1,96,severe stomach pain vomiting since night,diabetes,metformin,2026-09-01 15:29:00,3,Gastroenterology,0
+1,M,0,61,115,39.5,95,"infant bukhar, doodh nahi pi raha",pregnant,metformin,2026-09-01 15:26:00,3,Pediatrics,0
+21,F,160,61,106,39.0,94,severe stomach pain vomiting since night,CKD,aspirin,2026-09-01 15:26:00,3,Gastroenterology,0
+77,M,103,84,94,38.7,94,high fever with rigors 103F since 3 days,none,none,2026-09-01 15:27:00,3,General Medicine,0
+52,M,121,80,69,36.8,97,khujli with red patches on arms,pregnant,amlodipine,2026-09-01 15:28:00,5,Dermatology,0
+81,M,119,83,90,36.7,99,mild fever cold cough since 2 days,epilepsy,aspirin,2026-09-01 15:30:00,5,General Medicine,0
+6,M,0,100,119,38.7,94,pet dard tez with ulti,pregnant,none,2026-09-01 15:30:00,3,Pediatrics,0
+24,F,134,81,70,0.0,97,eye redness watering since 2 days,hypertension,aspirin,2026-09-01 15:30:00,5,Ophthalmology,0
+36,F,106,81,83,37.6,97,eye redness watering since 2 days,diabetes,metformin,2026-09-01 15:35:00,5,Ophthalmology,0
+25,M,0,0,73,36.8,98,eye redness watering since 2 days,asthma,aspirin,2026-09-01 15:32:00,5,Ophthalmology,0
+20,M,128,90,115,38.5,94,severe stomach pain vomiting since night,pregnant,none,2026-09-01 15:33:00,3,Gastroenterology,0
+70,F,125,86,75,36.7,99,eye redness watering since 2 days,COPD,amlodipine,2026-09-01 15:32:00,5,Ophthalmology,0
+51,M,137,79,86,38.1,96,"ankle sprain after fall, swelling",diabetes,none,2026-09-01 15:33:00,4,Orthopedics,0
+38,M,112,70,84,0.0,98,khujli with red patches on arms,epilepsy,aspirin,2026-09-01 15:40:00,5,Dermatology,0
+62,F,134,77,83,37.0,97,"BP sugar followup, need refill, no complaints",epilepsy,amlodipine,2026-09-01 15:33:00,5,General Medicine,0
+63,M,0,87,85,37.8,97,mild fever cold cough since 2 days,pregnant,none,2026-09-01 15:34:00,5,General Medicine,0
+74,M,102,60,82,38.3,97,"severe ankle sprain after fall, swelling",CKD,metformin,2026-09-01 15:34:00,4,Orthopedics,0
+65,M,131,74,88,37.3,96,"ankle sprain after fall, swelling",epilepsy,aspirin,2026-09-01 15:38:00,4,Orthopedics,0
+59,M,145,69,72,36.6,96,"ankle sprain after fall, swelling",pregnant,salbutamol inhaler,2026-09-01 15:37:00,4,Orthopedics,0
+82,F,134,87,71,0.0,98,khujli with red patches on arms,epilepsy,metformin,2026-09-01 15:39:00,5,Dermatology,0
+41,F,126,75,95,37.6,99,khujli with red patches on arms,pregnant,metformin,2026-09-01 15:37:00,5,Dermatology,0
+23,F,106,65,0,37.4,98,eye redness watering since 2 days,COPD,metformin,2026-09-01 15:38:00,5,Ophthalmology,0
+75,M,127,0,99,37.6,98,"ankle sprain after fall, swelling",none,aspirin,2026-09-01 15:43:00,4,Orthopedics,0
+28,F,128,79,118,0.0,94,pet dard tez with ulti,none,metformin,2026-09-01 15:40:00,3,Gastroenterology,0
+69,F,97,92,117,39.9,96,"tez bukhar with thand lag, sar dard",COPD,aspirin,2026-09-01 15:41:00,3,General Medicine,0
+10,F,126,90,90,38.3,94,severe stomach pain vomiting since night,COPD,metformin,2026-09-01 15:41:00,3,Pediatrics,0
+70,M,0,69,77,38.4,96,"ankle sprain after fall, swelling",pregnant,amlodipine,2026-09-01 15:42:00,4,Orthopedics,0
+78,F,130,67,76,37.0,97,eye redness watering since 2 days,diabetes,amlodipine,2026-09-01 15:41:00,5,Ophthalmology,0
+80,F,98,81,117,40.0,97,pet dard tez with ulti,none,none,2026-09-01 15:44:00,3,Gastroenterology,0
+58,F,136,83,0,38.1,94,pet dard tez with ulti,hypertension,salbutamol inhaler,2026-09-01 15:46:00,3,Gastroenterology,0
+60,F,138,67,109,40.0,0,high fever with rigors 103F since 3 days,CKD,metformin,2026-09-01 15:45:00,3,General Medicine,0
+1,M,141,0,105,39.8,96,"infant bukhar, doodh nahi pi raha",diabetes,salbutamol inhaler,2026-09-01 15:44:00,3,Pediatrics,0
+23,M,123,67,72,36.9,97,"BP sugar followup, stable, need medicines",CKD,none,2026-09-01 15:46:00,5,General Medicine,0
+53,M,0,75,73,36.6,99,skin rash itching since week,pregnant,aspirin,2026-09-01 15:46:00,5,Dermatology,0
+23,M,97,90,96,38.4,0,severe stomach pain vomiting since night,CKD,none,2026-09-01 15:48:00,3,Gastroenterology,0
+7,F,122,99,111,38.5,97,pet dard tez with ulti,COPD,none,2026-09-01 15:50:00,3,Pediatrics,0
+63,M,108,77,83,37.5,97,khujli with red patches on arms,hypertension,metformin,2026-09-01 15:59:00,5,Dermatology,0
+27,F,109,0,90,39.8,95,"tez bukhar with thand lag, sar dard",diabetes,salbutamol inhaler,2026-09-01 15:48:00,3,General Medicine,0
+81,M,113,84,92,38.2,97,"ankle sprain after fall, swelling",epilepsy,aspirin,2026-09-01 15:48:00,4,Orthopedics,0
+37,M,118,68,0,36.7,98,"fever 99 with runny nose, no distress",pregnant,salbutamol inhaler,2026-09-01 15:50:00,5,General Medicine,0
+34,M,130,74,98,36.5,97,"ankle sprain after fall, swelling",diabetes,salbutamol inhaler,2026-09-01 15:51:00,4,Orthopedics,0
+66,F,146,61,92,38.6,94,"tez bukhar with thand lag, sar dard",asthma,aspirin,2026-09-01 15:57:00,3,General Medicine,0
+70,F,172,55,130,37.6,91,"pressure in chest radiating to left arm, nausea",epilepsy,none,2026-09-01 15:52:00,2,Cardiology,1
+31,F,106,75,76,37.5,98,khujli with red patches on arms,asthma,metformin,2026-09-01 15:52:00,5,Dermatology,0
+9,M,126,82,79,36.7,99,eye redness watering since 2 days,CKD,none,2026-09-01 15:56:00,5,Pediatrics,0
+78,M,106,76,115,38.1,0,"tez bukhar with thand lag, sar dard",COPD,aspirin,2026-09-01 15:56:00,3,General Medicine,0
+89,F,140,88,0,38.1,95,severe pet dard tez with ulti,hypertension,metformin,2026-09-01 15:53:00,3,Gastroenterology,0
+1,M,112,62,93,38.9,95,"infant bukhar, doodh nahi pi raha",asthma,aspirin,2026-09-01 15:54:00,3,Pediatrics,0
+53,M,107,70,71,36.7,97,"fever 99 with runny nose, no distress",pregnant,aspirin,2026-09-01 15:54:00,5,General Medicine,0
+78,F,130,80,98,40.3,95,pet dard tez with ulti,diabetes,none,2026-09-01 15:54:00,3,Gastroenterology,0
+68,M,122,80,77,37.3,99,mild fever cold cough since 2 days,hypertension,none,2026-09-01 15:59:00,5,General Medicine,0
+10,F,106,0,98,39.4,96,high fever with rigors 103F since 3 days,diabetes,none,2026-09-01 15:56:00,3,Pediatrics,0
+41,F,110,86,73,36.5,98,skin rash itching since week,diabetes,salbutamol inhaler,2026-09-01 15:56:00,5,Dermatology,0
+61,M,151,94,0,38.1,96,high fever with rigors 103F since 3 days,diabetes,none,2026-09-01 15:59:00,3,General Medicine,0
+18,F,118,91,103,0.0,96,"ankle sprain after fall, swelling",epilepsy,aspirin,2026-09-01 15:57:00,4,Orthopedics,0
+31,F,116,85,75,37.0,97,"fever 99 with runny nose, no distress",CKD,none,2026-09-01 15:58:00,5,General Medicine,0
+21,F,128,66,82,36.6,99,halka bukhar sardi khansi,pregnant,amlodipine,2026-09-01 16:01:00,5,General Medicine,0
+1,M,110,85,98,40.2,94,"severe 3 month baby fever, poor feeding",none,aspirin,2026-09-01 16:03:00,3,Pediatrics,0
+24,M,146,77,97,39.7,95,pet dard tez with ulti,CKD,aspirin,2026-09-01 16:00:00,3,Gastroenterology,0
+67,F,224,50,152,40.3,86,"heavy bleeding after cut, blood not stopping",asthma,aspirin,2026-09-01 16:03:00,1,Emergency,1
+23,F,111,88,65,36.6,99,"BP sugar followup, stable, need medicines",hypertension,metformin,2026-09-01 16:03:00,5,General Medicine,0
+0,F,0,81,91,39.7,96,"infant bukhar, doodh nahi pi raha",pregnant,metformin,2026-09-01 16:05:00,3,Pediatrics,0
+28,M,130,68,67,37.4,0,"BP sugar followup, need refill, no complaints",COPD,none,2026-09-01 16:02:00,5,General Medicine,0
+82,F,112,66,93,37.6,98,eye redness watering since 2 days,pregnant,aspirin,2026-09-01 16:03:00,5,Ophthalmology,0
+23,M,131,65,90,99.1,97,severe skin rash itching since week,epilepsy,salbutamol inhaler,2026-09-01 16:04:00,5,Dermatology,0
+76,M,146,86,70,0.0,97,"ankle sprain after fall, swelling",CKD,amlodipine,2026-09-01 16:05:00,4,Orthopedics,0
+3,M,129,78,71,37.6,97,khujli with red patches on arms,pregnant,aspirin,2026-09-01 16:04:00,5,Pediatrics,0
+37,M,121,0,78,36.6,99,"fever 99 with runny nose, no distress",hypertension,none,2026-09-01 16:07:00,5,General Medicine,0
+0,M,119,63,106,38.9,95,"infant bukhar, doodh nahi pi raha",diabetes,salbutamol inhaler,2026-09-01 16:11:00,3,Pediatrics,0
+1,F,101,87,106,39.1,95,"3 month baby fever, poor feeding",COPD,none,2026-09-01 16:10:00,3,Pediatrics,0
+70,M,130,81,79,36.9,97,mild fever cold cough since 2 days,COPD,metformin,2026-09-01 16:09:00,5,General Medicine,0
+47,F,97,98,0,39.3,94,high fever with rigors 103F since 3 days,none,salbutamol inhaler,2026-09-01 16:09:00,3,General Medicine,0
+84,F,131,82,85,37.5,99,khujli with red patches on arms,asthma,none,2026-09-01 16:11:00,5,Dermatology,0
+13,F,97,92,118,39.4,96,severe stomach pain vomiting since night,COPD,salbutamol inhaler,2026-09-01 16:12:00,3,Gastroenterology,0
+7,F,124,87,65,37.1,0,khujli with red patches on arms,COPD,salbutamol inhaler,2026-09-01 16:11:00,5,Pediatrics,0
+84,F,126,93,94,40.1,94,severe stomach pain vomiting since night,asthma,none,2026-09-01 16:12:00,3,Gastroenterology,0
+1,M,150,77,92,39.4,97,"infant bukhar, doodh nahi pi raha",diabetes,metformin,2026-09-01 16:13:00,3,Pediatrics,0
+15,F,131,71,89,37.0,98,"BP sugar followup, stable, need medicines",hypertension,metformin,2026-09-01 16:12:00,5,General Medicine,0
+55,F,134,77,67,36.7,97,"fever 99 with runny nose, no distress",hypertension,amlodipine,2026-09-01 16:17:00,5,General Medicine,0
+10,F,125,84,67,36.9,99,"fever 99 with runny nose, no distress",epilepsy,metformin,2026-09-01 16:12:00,5,Pediatrics,0
+56,F,138,78,95,36.6,97,"ankle sprain after fall, swelling",asthma,salbutamol inhaler,2026-09-01 16:13:00,4,Orthopedics,0
+6,M,123,0,94,36.6,99,eye redness watering since 2 days,COPD,metformin,2026-09-01 16:15:00,5,Pediatrics,0
+0,M,0,0,93,39.4,97,"infant bukhar, doodh nahi pi raha",asthma,amlodipine,2026-09-01 16:15:00,3,Pediatrics,0
+85,F,109,79,80,0.0,99,skin rash itching since week,CKD,none,2026-09-01 16:15:00,5,Dermatology,0
+50,F,121,0,91,37.1,97,"BP sugar followup, need refill, no complaints",diabetes,metformin,2026-09-01 16:20:00,5,General Medicine,0
+9,M,131,70,85,37.6,97,eye redness watering since 2 days,epilepsy,metformin,2026-09-01 16:17:00,5,Pediatrics,0
+54,M,132,82,72,0.0,97,eye redness watering since 2 days,hypertension,aspirin,2026-09-01 16:19:00,5,Ophthalmology,0
+15,F,120,87,66,37.6,98,khujli with red patches on arms,hypertension,aspirin,2026-09-01 16:18:00,5,Dermatology,0
+1,F,115,65,102,38.0,96,"3 month baby fever, poor feeding",diabetes,none,2026-09-01 16:20:00,3,Pediatrics,0
+50,F,100,95,108,38.6,96,high fever with rigors 103F since 3 days,hypertension,salbutamol inhaler,2026-09-01 16:21:00,3,General Medicine,0
+76,F,159,78,110,38.7,0,pet dard tez with ulti,pregnant,aspirin,2026-09-01 16:21:00,3,Gastroenterology,0
+11,F,134,70,72,37.0,0,"fever 99 with runny nose, no distress",CKD,aspirin,2026-09-01 16:22:00,5,Pediatrics,0
+68,F,144,94,94,39.3,97,"tez bukhar with thand lag, sar dard",hypertension,none,2026-09-01 16:21:00,3,General Medicine,0
+30,F,106,87,73,37.4,97,skin rash itching since week,hypertension,amlodipine,2026-09-01 16:23:00,5,Dermatology,0
+1,F,118,93,102,39.5,97,"infant bukhar, doodh nahi pi raha",asthma,none,2026-09-01 16:24:00,3,Pediatrics,0
+24,M,115,77,70,36.6,98,skin rash itching since week,pregnant,aspirin,2026-09-01 16:22:00,5,Dermatology,0
+28,F,121,84,90,37.0,99,skin rash itching since week,none,none,2026-09-01 16:23:00,5,Dermatology,0
+62,F,131,73,72,36.8,97,"BP sugar followup, need refill, no complaints",diabetes,aspirin,2026-09-01 16:25:00,5,General Medicine,0
+34,M,106,83,96,38.8,97,pet dard tez with ulti,pregnant,none,2026-09-01 16:28:00,3,Gastroenterology,0
+54,F,132,75,66,37.7,97,eye redness watering since 2 days,diabetes,amlodipine,2026-09-01 16:27:00,5,Ophthalmology,0
+67,F,122,0,84,37.6,99,skin rash itching since week,pregnant,aspirin,2026-09-01 16:25:00,5,Dermatology,0
+41,F,130,79,82,36.9,98,"BP sugar followup, stable, need medicines",CKD,none,2026-09-01 16:27:00,5,General Medicine,0
+40,F,110,81,69,37.7,98,khujli with red patches on arms,hypertension,amlodipine,2026-09-01 16:26:00,5,Dermatology,0
+29,M,135,72,69,99.7,0,"BP sugar followup, need refill, no complaints",pregnant,aspirin,2026-09-01 16:27:00,5,General Medicine,0
+36,F,114,81,81,37.0,99,skin rash itching since week,COPD,aspirin,2026-09-01 16:28:00,5,Dermatology,0
+19,M,109,76,92,37.8,0,eye redness watering since 2 days,asthma,none,2026-09-01 16:31:00,5,Ophthalmology,0
+0,M,0,60,110,39.6,96,"3 month baby fever, poor feeding",COPD,none,2026-09-01 16:30:00,3,Pediatrics,0
+90,M,226,101,161,39.2,0,"right hand kamzori, bolne me dikkat, muh tedha",diabetes,none,2026-09-01 16:32:00,1,Emergency,1
+70,M,128,68,77,37.2,0,eye redness watering since 2 days,COPD,aspirin,2026-09-01 16:33:00,5,Ophthalmology,0
+0,M,122,86,118,40.4,95,"3 month baby fever, poor feeding",asthma,metformin,2026-09-01 16:35:00,3,Pediatrics,0
+69,M,115,82,95,36.8,98,"BP sugar followup, need refill, no complaints",epilepsy,salbutamol inhaler,2026-09-01 16:31:00,5,General Medicine,0
+73,F,224,0,0,38.1,82,"saans nahi aa rahi, dam ghut raha hai",none,amlodipine,2026-09-01 16:32:00,1,Emergency,1
+71,M,109,69,65,37.5,99,"BP sugar followup, need refill, no complaints",asthma,amlodipine,2026-09-01 16:36:00,5,General Medicine,0
+64,F,116,86,71,37.5,99,eye redness watering since 2 days,hypertension,amlodipine,2026-09-01 16:33:00,5,Ophthalmology,0
+10,F,107,89,74,38.2,98,"ankle sprain after fall, swelling",asthma,none,2026-09-01 16:33:00,4,Pediatrics,0
+25,F,0,85,92,37.2,99,"severe BP sugar followup, need refill, no complaints",none,amlodipine,2026-09-01 16:36:00,5,General Medicine,0
+19,M,111,70,68,37.7,99,skin rash itching since week,diabetes,amlodipine,2026-09-01 16:35:00,5,Dermatology,0
+0,F,112,81,111,0.0,97,"severe 3 month baby fever, poor feeding",pregnant,metformin,2026-09-01 16:36:00,3,Pediatrics,0
+13,M,0,74,70,36.6,97,eye redness watering since 2 days,pregnant,metformin,2026-09-01 16:36:00,5,Ophthalmology,0
+0,F,139,0,116,40.0,94,"3 month baby fever, poor feeding",none,amlodipine,2026-09-01 16:39:00,3,Pediatrics,0
+24,F,134,76,82,37.2,98,eye redness watering since 2 days,asthma,amlodipine,2026-09-01 16:37:00,5,Ophthalmology,0
+78,M,120,72,82,36.9,98,halka bukhar sardi khansi,hypertension,aspirin,2026-09-01 16:38:00,5,General Medicine,0
+13,F,120,76,80,36.9,96,"ankle sprain after fall, swelling",epilepsy,aspirin,2026-09-01 16:40:00,4,Orthopedics,0
+39,M,116,79,83,37.5,99,eye redness watering since 2 days,asthma,salbutamol inhaler,2026-09-01 16:40:00,5,Ophthalmology,0
+65,M,94,81,101,38.7,93,chest pain with sweating and breathlessness since morning,hypertension,none,2026-09-01 16:39:00,2,Cardiology,1
+75,M,132,88,0,37.4,98,"BP sugar followup, stable, need medicines",COPD,salbutamol inhaler,2026-09-01 16:40:00,5,General Medicine,0
+35,F,119,0,95,36.7,97,"ankle sprain after fall, swelling",none,aspirin,2026-09-01 16:43:00,4,Orthopedics,0
+71,M,115,71,86,37.3,97,eye redness watering since 2 days,epilepsy,metformin,2026-09-01 16:41:00,5,Ophthalmology,0
+60,M,99,63,98,0.0,0,severe stomach pain vomiting since night,none,none,2026-09-01 16:43:00,3,Gastroenterology,0
+33,M,134,95,74,37.6,98,"ankle sprain after fall, swelling",hypertension,none,2026-09-01 16:43:00,4,Orthopedics,0
+67,F,125,72,85,36.8,97,eye redness watering since 2 days,epilepsy,aspirin,2026-09-01 16:49:00,5,Ophthalmology,0
+62,F,123,73,72,37.6,97,eye redness watering since 2 days,CKD,none,2026-09-01 16:45:00,5,Ophthalmology,0
+33,M,133,0,92,36.7,99,severe eye redness watering since 2 days,epilepsy,amlodipine,2026-09-01 16:48:00,5,Ophthalmology,0
+80,F,108,82,95,36.8,97,"fever 99 with runny nose, no distress",none,metformin,2026-09-01 16:49:00,5,General Medicine,0
+68,F,134,86,81,37.6,97,eye redness watering since 2 days,diabetes,aspirin,2026-09-01 16:51:00,5,Ophthalmology,0
+47,F,96,0,95,40.0,94,pet dard tez with ulti,COPD,aspirin,2026-09-01 16:47:00,3,Gastroenterology,0
+85,M,134,70,81,37.4,98,skin rash itching since week,epilepsy,none,2026-09-01 16:52:00,5,Dermatology,0
+75,F,112,87,68,37.7,98,eye redness watering since 2 days,COPD,metformin,2026-09-01 16:48:00,5,Ophthalmology,0
+45,M,153,97,115,38.5,97,pet dard tez with ulti,epilepsy,none,2026-09-01 16:48:00,3,Gastroenterology,0
+65,F,109,67,79,36.7,97,skin rash itching since week,epilepsy,salbutamol inhaler,2026-09-01 16:50:00,5,Dermatology,0
+68,M,100,87,94,39.0,0,pet dard tez with ulti,diabetes,amlodipine,2026-09-01 16:49:00,3,Gastroenterology,0
+76,M,121,86,93,38.5,0,high fever with rigors 103F since 3 days,diabetes,aspirin,2026-09-01 16:50:00,3,General Medicine,0
+35,F,120,69,73,37.3,97,mild fever cold cough since 2 days,epilepsy,aspirin,2026-09-01 16:54:00,5,General Medicine,0
+16,F,124,82,83,37.3,99,eye redness watering since 2 days,diabetes,salbutamol inhaler,2026-09-01 16:51:00,5,Ophthalmology,0
+79,M,145,100,102,39.4,96,high fever with rigors 103F since 3 days,none,salbutamol inhaler,2026-09-01 16:56:00,3,General Medicine,0
+41,F,137,76,90,0.0,96,"ankle sprain after fall, swelling",pregnant,metformin,2026-09-01 16:54:00,4,Orthopedics,0
+60,M,118,86,88,36.8,97,halka bukhar sardi khansi,asthma,amlodipine,2026-09-01 16:54:00,5,General Medicine,0
+0,M,105,84,85,37.2,0,"BP sugar followup, need refill, no complaints",epilepsy,salbutamol inhaler,2026-09-01 16:56:00,5,Pediatrics,0
+6,F,130,78,73,36.5,97,khujli with red patches on arms,hypertension,none,2026-09-01 16:55:00,5,Pediatrics,0
+64,M,118,69,72,36.8,98,"BP sugar followup, need refill, no complaints",CKD,amlodipine,2026-09-01 16:54:00,5,General Medicine,0
+1,F,110,70,68,36.7,97,"BP sugar followup, need refill, no complaints",CKD,aspirin,2026-09-01 16:55:00,5,Pediatrics,0
+10,M,130,66,92,40.3,96,"severe tez bukhar with thand lag, sar dard",hypertension,none,2026-09-01 16:55:00,3,Pediatrics,0
+71,M,111,67,70,0.0,99,khujli with red patches on arms,epilepsy,salbutamol inhaler,2026-09-01 17:00:00,5,Dermatology,0
+14,M,106,71,81,36.8,98,skin rash itching since week,hypertension,aspirin,2026-09-01 16:58:00,5,Dermatology,0
+0,F,111,67,111,39.3,0,"infant bukhar, doodh nahi pi raha",epilepsy,salbutamol inhaler,2026-09-01 16:58:00,3,Pediatrics,0
+25,M,108,69,95,36.7,97,eye redness watering since 2 days,diabetes,aspirin,2026-09-01 16:59:00,5,Ophthalmology,0
+82,M,157,70,90,0.0,95,severe stomach pain vomiting since night,hypertension,amlodipine,2026-09-01 17:00:00,3,Gastroenterology,0
+81,M,99,84,109,38.8,95,severe stomach pain vomiting since night,CKD,amlodipine,2026-09-01 16:59:00,3,Gastroenterology,0
+50,F,155,92,99,40.1,94,high fever with rigors 103F since 3 days,epilepsy,amlodipine,2026-09-01 17:03:00,3,General Medicine,0
+79,M,119,87,90,36.6,99,"BP sugar followup, need refill, no complaints",diabetes,metformin,2026-09-01 17:02:00,5,General Medicine,0
+79,F,137,93,102,38.3,97,"ankle sprain after fall, swelling",none,amlodipine,2026-09-01 17:01:00,4,Orthopedics,0
+0,M,143,76,95,38.3,96,"infant bukhar, doodh nahi pi raha",diabetes,metformin,2026-09-01 17:09:00,3,Pediatrics,0
+20,M,110,81,92,37.7,0,eye redness watering since 2 days,asthma,metformin,2026-09-01 17:02:00,5,Ophthalmology,0
+48,M,96,58,132,39.1,93,"dil me dard, ghabrahat, ulti jaisa lag raha",hypertension,metformin,2026-09-01 17:07:00,2,Cardiology,1
+10,M,130,80,73,37.5,98,"BP sugar followup, need refill, no complaints",pregnant,amlodipine,2026-09-01 17:03:00,5,Pediatrics,0
+51,M,105,76,91,0.0,0,halka bukhar sardi khansi,epilepsy,aspirin,2026-09-01 17:11:00,5,General Medicine,0
+1,F,134,76,74,37.4,0,severe khujli with red patches on arms,pregnant,amlodipine,2026-09-01 17:05:00,5,Pediatrics,0
+66,M,123,95,82,37.3,99,"ankle sprain after fall, swelling",epilepsy,none,2026-09-01 17:06:00,4,Orthopedics,0
+71,M,237,140,153,0.0,82,sudden vision loss + weakness left side,COPD,metformin,2026-09-01 17:06:00,1,Emergency,1
+80,M,0,65,74,37.2,97,khujli with red patches on arms,none,salbutamol inhaler,2026-09-01 17:07:00,5,Dermatology,0
+37,M,112,91,99,39.5,97,"tez bukhar with thand lag, sar dard",epilepsy,metformin,2026-09-01 17:08:00,3,General Medicine,0
+0,F,101,76,113,38.7,96,"infant bukhar, doodh nahi pi raha",pregnant,aspirin,2026-09-01 17:10:00,3,Pediatrics,0
+1,F,95,96,90,38.2,94,"3 month baby fever, poor feeding",COPD,metformin,2026-09-01 17:09:00,3,Pediatrics,0
+1,F,95,63,92,39.3,97,"3 month baby fever, poor feeding",asthma,aspirin,2026-09-01 17:09:00,3,Pediatrics,0
+7,F,0,82,85,0.0,99,"BP sugar followup, need refill, no complaints",diabetes,amlodipine,2026-09-01 17:10:00,5,Pediatrics,0
+56,M,131,83,69,36.6,0,"fever 99 with runny nose, no distress",diabetes,none,2026-09-01 17:11:00,5,General Medicine,0
+82,M,130,83,81,37.0,98,"BP sugar followup, stable, need medicines",none,amlodipine,2026-09-01 17:11:00,5,General Medicine,0
+1,M,122,64,91,38.8,96,"infant bukhar, doodh nahi pi raha",CKD,metformin,2026-09-01 17:18:00,3,Pediatrics,0
+30,F,132,69,78,36.6,99,"BP sugar followup, stable, need medicines",COPD,salbutamol inhaler,2026-09-01 17:16:00,5,General Medicine,0
+40,M,143,0,117,39.0,96,pet dard tez with ulti,hypertension,aspirin,2026-09-01 17:13:00,3,Gastroenterology,0
+50,M,111,83,70,37.6,99,"BP sugar followup, need refill, no complaints",CKD,amlodipine,2026-09-01 17:15:00,5,General Medicine,0
+12,F,159,84,93,38.4,94,severe stomach pain vomiting since night,hypertension,aspirin,2026-09-01 17:16:00,3,Gastroenterology,0
+34,M,117,60,118,39.7,94,pet dard tez with ulti,hypertension,metformin,2026-09-01 17:18:00,3,Gastroenterology,0
+43,M,132,88,94,37.7,97,mild fever cold cough since 2 days,pregnant,amlodipine,2026-09-01 17:16:00,5,General Medicine,0
+90,M,132,69,79,37.2,0,eye redness watering since 2 days,diabetes,amlodipine,2026-09-01 17:15:00,5,Ophthalmology,0
+1,M,0,60,0,38.3,96,pet dard tez with ulti,diabetes,none,2026-09-01 17:16:00,3,Pediatrics,0
+43,M,140,82,0,40.3,0,high fever with rigors 103F since 3 days,none,none,2026-09-01 17:22:00,3,General Medicine,0
+70,M,0,124,124,38.4,93,"dil me dard, ghabrahat, ulti jaisa lag raha",COPD,metformin,2026-09-01 17:19:00,2,Cardiology,1
+50,F,0,77,89,0.0,97,"severe BP sugar followup, need refill, no complaints",pregnant,salbutamol inhaler,2026-09-01 17:18:00,5,General Medicine,0
+23,M,140,71,106,0.0,97,"ankle sprain after fall, swelling",epilepsy,amlodipine,2026-09-01 17:19:00,4,Orthopedics,0
+31,F,123,69,105,38.2,93,labour pain with bleeding,pregnant,salbutamol inhaler,2026-09-01 17:22:00,2,OBGYN,1
+23,M,110,83,88,37.5,99,eye redness watering since 2 days,asthma,amlodipine,2026-09-01 17:24:00,5,Ophthalmology,0
+9,F,119,79,93,37.4,97,"BP sugar followup, stable, need medicines",hypertension,metformin,2026-09-01 17:20:00,5,Pediatrics,0
+0,M,140,93,115,39.3,94,"3 month baby fever, poor feeding",epilepsy,metformin,2026-09-01 17:22:00,3,Pediatrics,0
+59,F,116,66,102,39.8,94,"tez bukhar with thand lag, sar dard",COPD,amlodipine,2026-09-01 17:23:00,3,General Medicine,0
+1,F,134,63,111,0.0,94,"infant bukhar, doodh nahi pi raha",CKD,none,2026-09-01 17:22:00,3,Pediatrics,0
+19,M,127,65,98,39.2,96,severe stomach pain vomiting since night,epilepsy,salbutamol inhaler,2026-09-01 17:24:00,3,Gastroenterology,0
+80,M,109,66,85,37.8,97,"fever 99 with runny nose, no distress",pregnant,metformin,2026-09-01 17:25:00,5,General Medicine,0
+16,M,118,0,93,0.0,97,"severe BP sugar followup, need refill, no complaints",none,aspirin,2026-09-01 17:25:00,5,General Medicine,0
+9,M,115,98,0,39.7,97,high fever with rigors 103F since 3 days,asthma,none,2026-09-01 17:27:00,3,Pediatrics,0
+69,F,103,99,102,38.4,97,high fever with rigors 103F since 3 days,pregnant,aspirin,2026-09-01 17:26:00,3,General Medicine,0
+5,F,112,87,77,36.6,97,khujli with red patches on arms,CKD,salbutamol inhaler,2026-09-01 17:27:00,5,Pediatrics,0
+87,F,124,71,87,37.2,97,khujli with red patches on arms,epilepsy,metformin,2026-09-01 17:27:00,5,Dermatology,0
+32,M,147,68,119,40.4,96,"tez bukhar with thand lag, sar dard",hypertension,none,2026-09-01 17:29:00,3,General Medicine,0
+30,F,105,98,108,38.7,97,"tez bukhar with thand lag, sar dard",none,metformin,2026-09-01 17:31:00,3,General Medicine,0
+33,M,0,66,90,36.8,99,"BP sugar followup, need refill, no complaints",CKD,salbutamol inhaler,2026-09-01 17:32:00,5,General Medicine,0
+58,F,123,87,93,37.5,99,khujli with red patches on arms,COPD,aspirin,2026-09-01 17:29:00,5,Dermatology,0
+76,F,104,87,0,36.8,0,"ankle sprain after fall, swelling",CKD,none,2026-09-01 17:29:00,4,Orthopedics,0
+47,F,117,74,92,36.7,98,skin rash itching since week,diabetes,salbutamol inhaler,2026-09-01 17:30:00,5,Dermatology,0
+33,M,115,70,96,0.0,96,"ankle sprain after fall, swelling",none,metformin,2026-09-01 17:30:00,4,Orthopedics,0
+87,M,120,81,91,37.7,98,mild fever cold cough since 2 days,CKD,salbutamol inhaler,2026-09-01 17:31:00,5,General Medicine,0
+64,F,116,77,101,36.7,96,"ankle sprain after fall, swelling",epilepsy,salbutamol inhaler,2026-09-01 17:35:00,4,Orthopedics,0
+16,F,0,80,0,38.5,95,pet dard tez with ulti,pregnant,metformin,2026-09-01 17:35:00,3,Gastroenterology,0
+47,F,100,62,0,39.2,95,high fever with rigors 103F since 3 days,COPD,amlodipine,2026-09-01 17:34:00,3,General Medicine,0
+27,F,106,91,95,38.5,94,severe stomach pain vomiting since night,hypertension,none,2026-09-01 17:35:00,3,Gastroenterology,0
+47,F,131,86,86,37.7,97,eye redness watering since 2 days,asthma,amlodipine,2026-09-01 17:34:00,5,Ophthalmology,0
+29,F,149,65,0,40.4,0,pet dard tez with ulti,none,amlodipine,2026-09-01 17:37:00,3,Gastroenterology,0
+1,F,110,69,102,38.9,94,severe pet dard tez with ulti,asthma,amlodipine,2026-09-01 17:42:00,3,Pediatrics,0
+33,F,120,71,75,37.5,98,khujli with red patches on arms,asthma,none,2026-09-01 17:36:00,5,Dermatology,0
+71,M,145,71,81,37.3,98,"ankle sprain after fall, swelling",epilepsy,metformin,2026-09-01 17:40:00,4,Orthopedics,0
+82,M,122,66,73,37.4,98,severe eye redness watering since 2 days,CKD,amlodipine,2026-09-01 17:39:00,5,Ophthalmology,0
+49,M,117,86,66,37.5,99,"severe fever 99 with runny nose, no distress",CKD,aspirin,2026-09-01 17:37:00,5,General Medicine,0
+84,M,142,65,103,38.2,0,high fever with rigors 103F since 3 days,diabetes,none,2026-09-01 17:40:00,3,General Medicine,0
+63,F,0,63,105,40.0,0,pet dard tez with ulti,none,amlodipine,2026-09-01 17:39:00,3,Gastroenterology,0
+0,M,150,99,102,39.3,97,"severe infant bukhar, doodh nahi pi raha",none,aspirin,2026-09-01 17:40:00,3,Pediatrics,0
+1,M,153,81,112,39.6,97,"3 month baby fever, poor feeding",CKD,metformin,2026-09-01 17:40:00,3,Pediatrics,0
+3,F,110,0,68,36.6,97,khujli with red patches on arms,CKD,none,2026-09-01 17:42:00,5,Pediatrics,0
+0,M,126,95,99,37.1,99,"ankle sprain after fall, swelling",CKD,amlodipine,2026-09-01 17:42:00,4,Pediatrics,0
+4,F,132,75,66,0.0,97,"BP sugar followup, stable, need medicines",epilepsy,none,2026-09-01 17:42:00,5,Pediatrics,0
+72,F,112,96,112,38.6,97,high fever with rigors 103F since 3 days,asthma,none,2026-09-01 17:42:00,3,General Medicine,0
+10,F,132,93,109,39.5,96,pet dard tez with ulti,CKD,metformin,2026-09-01 17:43:00,3,Pediatrics,0
+50,M,126,76,98,0.0,97,"tez bukhar with thand lag, sar dard",asthma,metformin,2026-09-01 17:44:00,3,General Medicine,0
+61,M,123,86,91,37.3,99,skin rash itching since week,none,metformin,2026-09-01 17:44:00,5,Dermatology,0
+38,F,111,74,85,37.5,99,eye redness watering since 2 days,hypertension,salbutamol inhaler,2026-09-01 17:45:00,5,Ophthalmology,0
+78,M,136,63,71,38.3,97,"severe ankle sprain after fall, swelling",epilepsy,salbutamol inhaler,2026-09-01 17:47:00,4,Orthopedics,0
+80,F,0,95,120,0.0,97,pet dard tez with ulti,COPD,salbutamol inhaler,2026-09-01 17:48:00,3,Gastroenterology,0
+69,F,101,73,99,0.0,95,severe severe stomach pain vomiting since night,CKD,metformin,2026-09-01 17:47:00,3,Gastroenterology,0
+84,F,148,0,113,40.0,97,high fever with rigors 103F since 3 days,asthma,none,2026-09-01 17:51:00,3,General Medicine,0
+83,M,0,86,80,37.7,98,mild fever cold cough since 2 days,COPD,none,2026-09-01 17:51:00,5,General Medicine,0
+71,F,118,77,75,37.1,97,mild fever cold cough since 2 days,asthma,none,2026-09-01 17:51:00,5,General Medicine,0
+73,M,140,81,100,37.1,91,seene me dard with pasina and saans phool raha,none,salbutamol inhaler,2026-09-01 17:54:00,2,Cardiology,1
+78,F,70,75,33,37.7,82,"heavy bleeding after cut, blood not stopping",COPD,amlodipine,2026-09-01 17:50:00,1,Emergency,1
+1,F,103,97,115,38.2,0,"3 month baby fever, poor feeding",none,aspirin,2026-09-01 17:55:00,3,Pediatrics,0
+60,F,115,73,78,37.3,97,eye redness watering since 2 days,COPD,none,2026-09-01 17:55:00,5,Ophthalmology,0
+8,M,109,75,84,37.5,97,eye redness watering since 2 days,asthma,metformin,2026-09-01 17:52:00,5,Pediatrics,0
+12,M,107,0,66,37.2,97,eye redness watering since 2 days,hypertension,amlodipine,2026-09-01 17:53:00,5,Ophthalmology,0
+80,M,124,69,76,37.3,97,eye redness watering since 2 days,diabetes,aspirin,2026-09-01 17:53:00,5,Ophthalmology,0
+31,M,122,79,70,36.5,97,eye redness watering since 2 days,CKD,none,2026-09-01 17:57:00,5,Ophthalmology,0
+0,M,120,0,99,39.1,96,severe stomach pain vomiting since night,pregnant,amlodipine,2026-09-01 17:54:00,3,Pediatrics,0
+78,F,72,138,34,39.0,89,"face drooping on one side, slurred speech since 1 hour",pregnant,aspirin,2026-09-01 17:55:00,1,Emergency,1
+21,M,134,76,83,36.5,97,eye redness watering since 2 days,pregnant,none,2026-09-01 17:57:00,5,Ophthalmology,0
+52,M,102,69,107,37.1,98,"ankle sprain after fall, swelling",epilepsy,metformin,2026-09-01 17:59:00,4,Orthopedics,0
+0,F,128,99,106,39.6,94,"3 month baby fever, poor feeding",hypertension,amlodipine,2026-09-01 17:57:00,3,Pediatrics,0
+82,M,117,69,93,40.0,95,severe severe stomach pain vomiting since night,epilepsy,none,2026-09-01 17:58:00,3,Gastroenterology,0
+13,M,121,75,73,37.2,99,khujli with red patches on arms,epilepsy,metformin,2026-09-01 17:59:00,5,Dermatology,0
+61,M,131,75,81,37.5,98,eye redness watering since 2 days,diabetes,none,2026-09-01 17:59:00,5,Ophthalmology,0
+18,F,109,0,74,36.9,97,"ankle sprain after fall, swelling",diabetes,salbutamol inhaler,2026-09-01 18:01:00,4,Orthopedics,0
+78,F,114,86,108,39.4,96,high fever with rigors 103F since 3 days,COPD,aspirin,2026-09-01 18:00:00,3,General Medicine,0
